@@ -1,0 +1,1576 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ladies preparation to the monthly sacrament Consisting of prayers, meditations, and ejaculations, before at, and after receiving the Lords supper. After the warning is given in church for the celebration of the Holy Communion, composed to the private use of a devout lady. And at the request of friends made publick.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 123 KB of XML-encoded text transcribed from 73 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48125</idno>
+            <idno type="STC">Wing L158</idno>
+            <idno type="STC">ESTC R216126</idno>
+            <idno type="EEBO-CITATION">99827877</idno>
+            <idno type="PROQUEST">99827877</idno>
+            <idno type="VID">32301</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48125)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32301)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1852:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ladies preparation to the monthly sacrament Consisting of prayers, meditations, and ejaculations, before at, and after receiving the Lords supper. After the warning is given in church for the celebration of the Holy Communion, composed to the private use of a devout lady. And at the request of friends made publick.</title>
+               </titleStmt>
+               <extent>[2], 80, p.60, 91-93, 95-152 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by W.B. for Simon Neale, in the Lond-Walk near Little-Brittain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text is continuous despite pagination.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper --  Prayer-books and devotions --  English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32301:1" rendition="simple:additions"/>
+            <p>THE Ladies Preparation To the Monthly SACRAMENT. Conſiſſing of Prayers, Meditations, and Ejaculations, before at, and after Receiving the <hi>Lords Supper.</hi> After the Warning is given in the Church for the Celebration of the Holy Communion, COMPOSED For the Private Uſe of a Devout Lady.</p>
+            <p>And at the Requeſt of Friends made Publick.</p>
+            <p>
+               <hi>LONDON;</hi> Printed by <hi>W. B.</hi> for <hi>Simon Neale,</hi> in the <hi>Long-Walk</hi> near <hi>Little Brittain,</hi> 1691.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:32301:2"/>
+            <p>Licenſed, <hi>February,</hi> 10th. 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:32301:2"/>
+            <head>THE WARNING On the Sunday Before the COMMUNION.</head>
+            <p>
+               <hi>DEARLY Beloved on Sunday I and purpoſe, through Gods Aſſiſtance, to Ad<g ref="char:EOLhyphen"/>miniſter to all ſuch as ſhall be Religiouſly and Devoutly diſpoſed, the moſt Comfortable</hi> Sacrament <hi>of the</hi> Body <hi>and</hi> Blood <hi>of</hi> Chriſt, <hi>to be by them received, in Re<g ref="char:EOLhyphen"/>membrance of his Meritorious Croſs and Paſſion, whereby alone we obtain Remiſſion of our Sins, and are made partakers of the Kingdom of Heaven,</hi> &amp;c.</p>
+            <div type="soliloquy">
+               <head>A Soliloquy on the Warning.</head>
+               <p>BLESSED for ever be thy Name, O Lord! who pitty<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:32301:3"/>our Ignorance, haſt Re<g ref="char:EOLhyphen"/>vealed to us this Heavenly My<g ref="char:EOLhyphen"/>ſtery of thy pretious Body and Blood, and foreſeeing our weakneſs, haſt built our Faith on ſo firm a Certainty. Juſtly, O my God! Doſt thou require our abſolute aſſent to thy word, ſince thou graciouſly provideſt ſuch grounds to aſſure us. Thy ſelf with thine own bleſt Mouth haſt taught it, thy Apoſtles with their deareſt Blod have confirmed it, and thy Churches in all Ages have faithfully de<g ref="char:EOLhyphen"/>livered it.</p>
+               <p n="2">II. HOW Beautiful, O Lord, are the Feet of thy Holy Meſ<g ref="char:EOLhyphen"/>ſengers. Who brings us Peace and Reconcilement with thee; who teaches us the way to E<g ref="char:EOLhyphen"/>ternal happineſs, and by their pious Offices, help us to go thither; if they teach us Spi<g ref="char:EOLhyphen"/>ritual things, 'tis juſt we ſhould give them Temporal, make us, O Lord, entertain them as Workmen ſent by thee, with
+<pb n="3" facs="tcp:32301:3"/>reſpect to their Perſons, and Obedience to their words, and according to our power, with a free ſupply of their neceſ<g ref="char:EOLhyphen"/>ſities.</p>
+               <p n="3">III. THUS does our gracious Lord ſend forth his Miniſtring Spirits to invite us to a Hea<g ref="char:EOLhyphen"/>venly Banquet: Their ſpiritu<g ref="char:EOLhyphen"/>al means Conveys our Prayers up to him, and brings his Bleſ<g ref="char:EOLhyphen"/>ſings down to us, in all our ways they direct us, and bear us in their Hands, leſt at any time we daſh our Foot againſt a Stone: When we labour they Aſſiſt us, when we repoſe they implore for us the Divine Pro<g ref="char:EOLhyphen"/>tection, when we are tempted, they Encourage us to ſtand faſt, and when we Conquer, they Crown us with their Prayers and Praiſes.</p>
+            </div>
+            <div type="ejaculations">
+               <pb n="4" facs="tcp:32301:4"/>
+               <head>When you firſt awake uſe theſe Ejaculations, as a Key to Open the Morning.</head>
+               <p>
+                  <hi>LIghten mine Eyes, O Lord, that I Sleep not in Death,</hi> Pſal. 13.3.</p>
+               <p>IT is high time to Awake our of our Sleep of Sin, for now (ſince we have received the Light of the Goſpel) our Salvation is nearer, then when we firſt Believed.</p>
+               <p>THE Night is now ſpent, and the day is approached, let me therefore caſt off the works of Darkneſs, and put on the Armour of Light.</p>
+               <p>GIVE me Grace, O Lord, to walk Honeſtly as in the day, net in Rioting and Drunken<g ref="char:EOLhyphen"/>neſs, not in Chambering and Wantonneſs, not in Strife and Envying.</p>
+               <p>BUT put on the Lord Jeſus Chriſt, and make not Proviſi<g ref="char:EOLhyphen"/>on for the Fleſh, to fulfil the
+<pb n="5" facs="tcp:32301:4"/>Luſts thereof, <hi>Rom.</hi> 13.11, 12, 13, 14.</p>
+               <div n="at up-rising" type="section">
+                  <p>
+                     <label>At Up-riſing.</label>
+                  </p>
+                  <p>IN the Name of the Father, who hath Created me, and of the Son, who hath Redeemed me, and of the Holy Ghoſt, whh hath Sanctified me, be Aſcribed all Glory and Power.</p>
+                  <p>BLESSED be the Holy and Undivided Trinity, now, and for Evermore, <hi>Amen.</hi>
+                  </p>
+                  <p>I laid me down and Slept, and roſe again, for the Lord hath Suſtained me.</p>
+                  <p>
+                     <label type="rubric">
+                        <hi>Then Humbly on your Knees, lift up thy Heart unto God, and ſay.</hi>
+                     </label>
+                  </p>
+                  <p>HOLY, Holy, Holy, Lord God Almighty, which was, and is, and is to come; I Worſhip him that liveth for Ever, and caſt my Self before his Throne; thou art worthy,
+<pb n="6" facs="tcp:32301:5"/>O Lord, my God, to receive Glory, and Honour, and Pow<g ref="char:EOLhyphen"/>er; for thou haſt Created all things, and for thy Wills-Sake they are, and were Created.</p>
+                  <p n="2">II. INTO the Hands of thy Bleſſed Protection, and unſpeak<g ref="char:EOLhyphen"/>able Mercy, O Lord, I this Day Commend my Soul and Body, with all the Faculties, Powers, and Actions of them both, beſeeching thee to be Ever with me, to direct, San<g ref="char:EOLhyphen"/>ctifie, and Govern me, in the ways of thy Law, and in the Works of thy Commandments; that through thy moſt Mighty Protection, both here, and Ever, I may be preſerved in Body and Soul, to ſerve thee, the only true God through Je<g ref="char:EOLhyphen"/>ſus Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+                  <p>
+                     <label type="rubric">
+                        <hi>Then uſe the Morning Prayer,</hi> &amp;c. <hi>Which is Annexed to theſe De<g ref="char:EOLhyphen"/>votions.</hi>
+                     </label>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div n="monday" type="day">
+            <div n="morning" type="time">
+               <pb n="7" facs="tcp:32301:5"/>
+               <div type="meditations">
+                  <head>Meditations for <hi>Monday</hi> Morning.</head>
+                  <p>COME, My Soul, let us begin our appointed Task, and dilligently mind our own Employment: Let us not loſe one day in Idleneſs, nor Diſtract our thoughts with Re<g ref="char:EOLhyphen"/>pining at the advantages of others, God is our abſolute Lord, and may do with his own as he pleaſes. If we began our Repentance late, our delay was dangerous; but we ought not to Deſpair: If we have labour<g ref="char:EOLhyphen"/>ed long in his Service, our Wages are ſafe; but we muſt not preſume on our own En<g ref="char:EOLhyphen"/>deavours.</p>
+                  <p n="2">II. THY Holy Myſteries, O Lord, I believe, O help my unbelief! Let not any difficul<g ref="char:EOLhyphen"/>ties make me doubt thy Truth, nor too long a doubting pro<g ref="char:EOLhyphen"/>voke thy Wrath: Every word
+<pb n="8" facs="tcp:32301:6"/>of thine ſhall be fulfiled in their Seaſon. Sometime thou Viſi<g ref="char:EOLhyphen"/>teſt thy Children with the Chaſtiſement of a Rod; ſome<g ref="char:EOLhyphen"/>times thou favoureſt them with the Smiles of Proſperity: But all at laſt ſhall Co-operate to their Good.</p>
+                  <p n="3">III. NO matter at all, for the Favour of Men, happy are they who find Grace with God: They ſhall Conceive in their Hearts the Bleſſed <hi>Jeſus,</hi> and bring him forth in their Holy Lives, and Reign with him in his Kingdom; and of his King<g ref="char:EOLhyphen"/>dom there ſhall be no End. Here we perhaps may weep for a time, and be poor, and Afflicted in this troubleſome World: But hereafter our Lord will Plant us about the Throne of his Father, and make us ſit down with him in his own Kingdom; if we hear<g ref="char:EOLhyphen"/>tily Love him and keep his Commandments.</p>
+                  <p n="4">IV. GIVE me, O Lord, thy
+<pb n="9" facs="tcp:32301:6"/>Holy Grace, to Love with Cha<g ref="char:EOLhyphen"/>rity the Defects of others, per<g ref="char:EOLhyphen"/>haps miſtaken by me, and re<g ref="char:EOLhyphen"/>ly on thee for Defence of my ſelf, moſt ſure of Relief if I wait thy Providence; for thy Mercy forſakes not the Inno<g ref="char:EOLhyphen"/>cent for Ever. Sometimes thou ſuffereſt thy Servants to be tryed; but wilt always at laſt, either Deliver their Patience, or Crown their Perſeverance.</p>
+               </div>
+               <div type="prayer">
+                  <head>The PRAYER.</head>
+                  <p>
+                     <hi>O Moſt Glorious Lord God, in thy Son Jeſus Chriſt, my moſt Merciful and Lov<g ref="char:EOLhyphen"/>ing Father, I Miſerable and Wretched Sinner, Duſt and Aſhes, do here in all Humility of Soul, Proſtrate my ſelf before thy Glo<g ref="char:EOLhyphen"/>rious Majeſty, Humbly acknow<g ref="char:EOLhyphen"/>ledging and Confeſſing againſt my own Soul, that I am laden with Iniquity, and by my Sins have defiled myſelf, defiled my Habi<g ref="char:EOLhyphen"/>tation, defiled this good Land wherein I Sojourn.</hi>
+                  </p>
+                  <pb n="10" facs="tcp:32301:7"/>
+                  <p n="2">
+                     <hi>II. O Lord, Righteouſneſs be<g ref="char:EOLhyphen"/>longeth hnto thee, but unto me Confuſion of Face; I have Sin<g ref="char:EOLhyphen"/>ned againſt thee, and done amiſs, and dealt very wickedly, and have added to the Number of my Fore Fathers Numberleſs Tranſgreſſions;</hi>
+                     <note n="*" place="margin">Here Name the Parti<g ref="char:EOLhyphen"/>culars.</note> 
+                     <hi>notwithſtand<g ref="char:EOLhyphen"/>ing thou haſt multiplied thy Bleſſings upon me in many Prerogatives.</hi>
+                  </p>
+                  <p n="3">
+                     <hi>III. B<g ref="char:V">Ʋ</g>T to my ſhame O Lord, I Confeſs that no Creature hath been ſo unthankful unto thee as I have been; for inſtead of bring<g ref="char:EOLhyphen"/>ing forth the Fruits of Righteouſ<g ref="char:EOLhyphen"/>neſs and Holineſs, I have turned all thy Bleſſings, Graces and Mer<g ref="char:EOLhyphen"/>cies into Wantonneſs, ſo that I have been a Provocation of thine Anger, and of thy Fury, from the day of my Birth; even until this very moment.</hi>
+                  </p>
+                  <p n="4">
+                     <hi>IV. And though thou haſt cal<g ref="char:EOLhyphen"/>ed me to knowledge of the Faith in thee, and thou haſt Revealed
+<pb n="11" facs="tcp:32301:7"/>unto me that ineſtimable Treaſure of thy Love unto me in Chriſt Jeſus, yet notwithſtanding I hade retained only the name, but no<g ref="char:EOLhyphen"/>thing of the Work of a Chriſtian, but have Diſhonoured thee, and Blaſphemed thy Name; but O Lord, in the midſt of Juſtice, Remember Mercy, call not to Remembrance my former Tranſ<g ref="char:EOLhyphen"/>greſſions, but Aſſiſt me by thy Grace to a ſpeedy Repentance, before I go hence, and be no more ſeen.</hi> Amen.</p>
+                  <p>
+                     <label type="rubric">Read the <hi>Pſalms,</hi> and Proper Leſſons for the Day.</label>
+                  </p>
+               </div>
+            </div>
+            <div n="evening" type="time">
+               <div type="meditations">
+                  <head>Monday <hi>Evenings Meditations.</hi>
+                  </head>
+                  <p>EVER, O Lord, thou beginſt thy great Deſign with Prayer, and thy Prayer with Retirement from the Di<g ref="char:EOLhyphen"/>ſtractions of the World<g ref="char:punc">▪</g> thou calleſt whom thou pleaſeſt, and they come to thee; thou chooſeſt whom thou wil'ſt, and
+<pb n="12" facs="tcp:32301:8"/>freely beſtoweſt on them thy precious Gifts; 'tis not of him that Wills, nor of him that runs; but of God that Vouch<g ref="char:EOLhyphen"/>ſafes to have Mercy: Have Mercy, O Lord! and chaſe away thoſe unclean Spirits that too often haunt my Fancy, and walk up and down my weak Memory; Chace them away, leaſt as they diſturb my Peace they ruin my Inno<g ref="char:EOLhyphen"/>cence.</p>
+                  <p n="2">II. GIVE me O thou Author of all my Good, a lively Faith in thee, that I may believe thy Truth, and hope thy Promiſes; that I may Love thy goodneſs, and continually Bleſs thee for all thy Mercies; who cameſt into the World, not to Judge the World, but to ſave it: Save me O glorious Son of Juſtice, and with thy Heavenly Beams Illuminate my Heart, that bringing my Works to the Light, I may Learn to hate my own Darkneſs, and Condemn<g ref="char:EOLhyphen"/>ing
+<pb n="13" facs="tcp:32301:8"/>my ſelf, Eſcape thy Judg<g ref="char:EOLhyphen"/>ment.</p>
+                  <p n="3">III. LORD in thy Hands are the Times and Seaſons, which thou kindly diſpoſeſt in advan<g ref="char:EOLhyphen"/>tage of thy Servants; that thy Favours may Encourage their Virtue, and their Virtue en<g ref="char:EOLhyphen"/>creaſe thy Favours: Thou re<g ref="char:EOLhyphen"/>wardeſt the Chaſtity of Virgins, and the Fidelity of Wives; thou Crowneſt the Holineſs of Widdows, and the perſeverance of all who conſtantly love thee.</p>
+                  <p n="4">IV. GIVE, me O Lord; thy Holy Grace, that my days may paſs in Innocence, and my In<g ref="char:EOLhyphen"/>nocence ſuſtain me in hope: give me thy Holy Grace, that my hope may encreaſe to Con<g ref="char:EOLhyphen"/>fidence, and my Confidence be Eſtabliſh'd in Peace, and then in Peace diſmiſs thy Servant. Lead me, O thou Light of the World, where thou uſeſt to walk, that my Eyes may happily ſee thee: Shew me thy Bleſſed ſelf, O
+<pb n="14" facs="tcp:32301:9"/>thou Glory of Heaven, that my Soul may faſt Embrace thee.</p>
+               </div>
+               <div type="prayer">
+                  <head>The PRAYER.</head>
+                  <p n="1">
+                     <hi>I. O Eternal God, I have in a great meaſure deſerved thy wrath, I have Committed preſumptuous Sins, with a high Hand againſt thy Divine Majeſty; I have Crucified again the Lord of Life, and have Trodden under Foot the Son of God: I have counted the Blood of the Covenant which Sanctifies me, an <g ref="char:V">Ʋ</g>nholy thing, and have done deſpight un<g ref="char:EOLhyphen"/>to the Spirit of Grace.</hi>
+                  </p>
+                  <p n="2">
+                     <hi>II. INSTEAD of making head againſt thoſe Temptations and Luſts that hourly be ſet me, by Prayer, calling to thee for thy Grace to Aſſiſt me againſt them, and by Faſting and Auſtere Morti<g ref="char:EOLhyphen"/>fication, by beating down my Body that I might not Conſpire with</hi> Satan, <hi>and my own Corraptions that betray me unto Sin; I have
+<pb n="15" facs="tcp:32301:9"/>Pamper'd the Fleſh, and ſuflered my ſelf to be led Captive at the Will thereof.</hi>
+                  </p>
+                  <p n="3">
+                     <hi>III. I have not Subdued or Mortified the Works of the Fleſh; I have not endeavoured to cleanſe my ſelf from all Filthineſs of Fleſh and Spirit:</hi>
+                     <note n="*" place="margin">Here Name the Parti<g ref="char:EOLhyphen"/>culars.</note> 
+                     <hi>I have not made a Covenant with my Eyes, neither have I kept the door of my Lips, but as if thou hadſt ſent me into the World, not to ſerve thee, but to ſerve my own Luſts.</hi>
+                  </p>
+                  <p n="4">
+                     <hi>IV. I have been abominable in all my ways; yea, O Lord, I have Committed too great Evils, I have departed from thee, the Ever-living God, and leaving thee, the Fountain of all Bleſſedneſs and Happineſs, in my Heart, have ſet up the Creature; I have ſet my Affections, not on things above, but on things below; the Luſt of the Fleſh, the Luſt of the Eyes, and the Pride of Life, theſe have
+<pb n="16" facs="tcp:32301:10"/>been the Gods that I have Ser<g ref="char:EOLhyphen"/>ved.</hi>
+                  </p>
+                  <p n="5">
+                     <hi>V. TH<g ref="char:V">Ʋ</g>S, have I ſold my ſelf to Commit wickedneſs; I have made all the Members of my Body In<g ref="char:EOLhyphen"/>ſtruments of Sin, and all the faculties, both of Soul and Body, Weapons of <g ref="char:V">Ʋ</g>nrighteouſneſs, to obey it in the Luſts thereof; O Lord, thou haſt found Iniquity even in my Holy things, I have been negligent in hearing of thy Word, unprepared at the Receiv<g ref="char:EOLhyphen"/>ing of thy Sacrament, Indevout in my Prayer, weary of their length, and diſpleaſed at the return; For theſe and all other negligences, and Ignorances; O Lord, be Merciful to me a Sinner.</hi> Amen.</p>
+                  <p>
+                     <label type="rubric">
+                        <hi>Read the</hi> Pſalms <hi>and Proper Leſſons appointed for the Day.</hi>
+                     </label>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div n="tuesday" type="day">
+            <div n="morning" type="time">
+               <pb n="17" facs="tcp:32301:10"/>
+               <div type="meditations">
+                  <head>Meditations for <hi>Tueſday</hi> Morning.</head>
+                  <p>LORD, make me Study how to follow thee, and readily undertake any La<g ref="char:EOLhyphen"/>bour to find thee; not for the benefits thou ſometimes giveſt me here, but for the bleſſings thou wilt ſurely give me here<g ref="char:EOLhyphen"/>after: Strengthen my faith, O Lord, and graciouſly inſtruct me, purifie my intention ſin<g ref="char:EOLhyphen"/>cerely to ſeek thee.</p>
+                  <p n="2">II. LET me not ſo apply my mind, O Lord, to any tri<g ref="char:EOLhyphen"/>vial Obſervances, that I begin to omit my more ſerious Du<g ref="char:EOLhyphen"/>ties; let me not ſo attend to the inventions of Men, that I grow to tranſgreſs the Com<g ref="char:EOLhyphen"/>mands of my God. O guide me gracious Lord in thine own ſafe way, and thoſe ſolid ex<g ref="char:EOLhyphen"/>erciſes which really improve
+<pb n="18" facs="tcp:32301:11"/>me, and make my heart as well as lips draw nigh thee, thoſe bleſſed truths, which thy ſelf at firſt revealed, and thy Holy Apoſtles hath fully confirm'd, may thoſe alone be my princi<g ref="char:EOLhyphen"/>pal rule, and every other Do<g ref="char:EOLhyphen"/>ctrine bow to them.</p>
+                  <p n="3">III. LORD how ungrateful are we compared to thy anci<g ref="char:EOLhyphen"/>ent Followers! Thou chargeſt us to remember thy benefits, and we forget them; thou com<g ref="char:EOLhyphen"/>mandeſt us to Publiſh thy Mer<g ref="char:EOLhyphen"/>cies, and we conceal them: Behold, O bleſſed <hi>Jeſu,</hi> I fall down at thy feet, reach forth thy Hand and heal me, that I may Glorifie thee the God of the Univerſe: Too of<g ref="char:EOLhyphen"/>ten have my Ears been Deaf to thy Voice, and my Tongue Dumb to thy Praiſe; too of<g ref="char:EOLhyphen"/>ten have my Eyes been Blind to thy Directions, and all my ſenſes impediments to thy Service.</p>
+                  <pb n="19" facs="tcp:32301:11"/>
+                  <p n="4">IV. We are often Wiſe in what imports us leaſt, and ut<g ref="char:EOLhyphen"/>terly ignorant of our greateſt concern; we can induſtrouſly argue what Weather it will be, but ſtrive not to diſcerne the ſeaſons of Grace: Forgive, O Merciful Lord, the perverſe<g ref="char:EOLhyphen"/>neſs of our nature, and leave us not to our ſelves, leaſt we periſh without bope. O make us deeply Sigh in Compaſſion for the Sins of others, and yet more deeply ſtill, in forrow for our own.</p>
+               </div>
+               <div type="prayer">
+                  <head>The PRAYER.</head>
+                  <p>
+                     <hi>MOST gracious God, I have been very negli<g ref="char:EOLhyphen"/>gent of thy Service, and thoſe du<g ref="char:EOLhyphen"/>ties whereby I ſhould have been better'd in the ways of Godli<g ref="char:EOLhyphen"/>neſs, by my ill performance have made me worſe; my very Pray<g ref="char:EOLhyphen"/>ers have been turned into Sin, and thoſe Sacrifices whereby I ſhould have propitiated thee, hath re<g ref="char:EOLhyphen"/>moved
+<pb n="20" facs="tcp:32301:12"/>thee at a further diſtance from me, and though thou in thy Mercy and tender compaſſion haſt oppoſſed me in my Sins, and called me to Repentance, yet notwith<g ref="char:EOLhyphen"/>ſtanding I have ruſht into all manner of Wick<g ref="char:EOLhyphen"/>edneſs,</hi>
+                     <note n="*" place="margin">Here Name the Parti<g ref="char:EOLhyphen"/>culars.</note> 
+                     <hi>as the Horſe into the Battle, and have gone from bad to worſe.</hi>
+                  </p>
+                  <p n="2">
+                     <hi>II. THY Judgment have not Awaked me, nor thy Mercies wonne me to Obedience; I have not harkened to the Voice of thy Miniſtry, nor to the Secret, Checks of my own Conſcience, nor yet to the good motions of thy Holy Spirit, all directing me, this is the way, walk in it, and you ſhall find reſt unto your Soul; yet notwithſtand<g ref="char:EOLhyphen"/>ing all the good means thou haſt uſed to reclaim me, and to bring me home to thee, I have ſtill gone on in a ſtubborn Courſe of Sin, to the diſhonour of thy Name, the wounding of my own Soul, the
+<pb n="21" facs="tcp:32301:12"/>Scaldal of others, and the increa<g ref="char:EOLhyphen"/>ſing the great dreadful Account, that I muſt one day make, at the Judgment Seat of Chriſt.</hi>
+                  </p>
+                  <p n="3">
+                     <hi>III. FOR theſe O Lord, and many other Sins, all thy Waves and Storms have gone over me; when thou haſt ſmitten me, I became void of underſtanding. and was ſo far from being humbled, that I laid it not to Heart, nor conſider<g ref="char:EOLhyphen"/>ed that it was an Evil, and bitter thing to depart from thee, O Lord, my God; wo unto me, I have pulled away the Shoulder, I have ſtopt my Ear, that I might not hear; I have made my Heart harder than the Adamant, and the neither Milſtone impregnable; for all thy Judgments have not pierced me, nor made thoſe im<g ref="char:EOLhyphen"/>preſſions of Compunction and Sor<g ref="char:EOLhyphen"/>row, which are the end whereof thou didſt ſend them; ſo that to my own ſhame and Confuſion I may ſay, my ſpots are none of the ſpots of thy Children, nor thy Puniſhments the Chaſtiſements of
+<pb n="22" facs="tcp:32301:13"/>a loving Father, but of an Angry Judge.</hi>
+                  </p>
+                  <p n="4">
+                     <hi>IV. I have too juſt reaſon to fear thy Afflictions under which I mourn, they are not a Wind to Fan and Purge me, but a Whirl Wind to Scatter and utterly deſtroy me, as if the Sentence were already paſt and the Decree gone forth, as if my Days were at an end<g ref="char:punc">▪</g> be<g ref="char:EOLhyphen"/>cauſe the ſhadows of the Evening are ſo far ſtretched out; but yet O Lord, be not weary of thy repent<g ref="char:EOLhyphen"/>ings; though thou haſt been preſt under the Load of my Sins, be not Angry with me for Ever; but in the midſt of Juſtice re<g ref="char:EOLhyphen"/>member Mercy.</hi> Amen.</p>
+                  <p>
+                     <label type="rubric">Read the <hi>Pſalms,</hi> and Leſſons appointed for the Day.</label>
+                  </p>
+               </div>
+            </div>
+            <div n="evening" type="time">
+               <div type="meditations">
+                  <head type="sub">Tueſday <hi>Evenings Meditations.</hi>
+                  </head>
+                  <p>LEARN O<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> my Soul to Confeſs a Truth, though never ſo much to thy own Di<g ref="char:EOLhyphen"/>minution; Learn ro Advance
+<pb n="23" facs="tcp:32301:13"/>the Honour of thy God, though never ſo much to thine own depreſſion. They who hum<g ref="char:EOLhyphen"/>ble themſelves ſhall be exalted, and they who exalt themſelves ſhall be humbled. Learn to decline the Applauſe of Men, and Baniſh from thy thoughts all conceits of thine own worth; learn to ſpeak lowly of thy ſelf, and to mean as thou ſayeſt.</p>
+                  <p n="2">II. OFTEN does our weak<g ref="char:EOLhyphen"/>neſs judge of others, and per<g ref="char:EOLhyphen"/>haps our Malice cenſure their Qualities: We raſhly conclude upon outward preſumptions, and little conſider their inward worth; we are apt to under<g ref="char:EOLhyphen"/>value whom we familiarly are acquainted with, and ſcarce can think highly of them whom we have once known low. Heal us, O thou great Phyſitian of our Souls! Heal us of all our Diſeaſes; and above them all, of our Rude Impatience to<g ref="char:EOLhyphen"/>wards thoſe that would Cure us. Whatever they do who
+<pb n="24" facs="tcp:32301:14"/>know thee not, let not thy Church diſhonour thee, nor thoſe of thine own Houſhould undervalue thy Mercies: Let not our unbelief Chaſe thee away, nor our ingratitude overcome thy goodneſs.</p>
+                  <p n="3">III. DISDAIN not O my Soul! the Company of thy Inferiors, but accommodate thy ſelf to their Innocent Cuſtoms; help them with thy Prayers, if thou canſt not with thy Power, and thy Lord in due time will Bounteouſly reward thee, he keeps the good Wine till the laſt, and then he'll fill us to the brim with joy.</p>
+                  <p n="4">IV. TEACH me O Lord, to Treat with every one according to their quality, and neither ſcorn my Inferiors, nor indi<g ref="char:EOLhyphen"/>ſcreetly exalt them: Teach me to humble my Soul before thy Majeſty, and ſincerely Confeſs I am an unprofitable Servant; unprofitable to thee, O Lord, not to my ſelf; while I gain
+<pb n="25" facs="tcp:32301:14"/>by thy Service the Wages of Eternity: If by thy Grace, I believe thy word, and Obey thy Law, and with my whole Strength Love and Adore thee: When I have done all that I ought, which alas! is more then I do, I muſt ſtill Confeſs I'm an unprofitable Servant.</p>
+               </div>
+               <div type="prayer">
+                  <head>The PRAYER.</head>
+                  <p>
+                     <hi>O Lord, Create in me a clean Heart, and renew a right Spirit within me; let the Aſſiſtance of thy Holy Spirit of Grace preſerve me from Sin for the time to come; for without thy preventing me, I cannot but Sin; viſit me therefore O Lord, with thy Salvation, that I may live undefiled in the way of thy Com<g ref="char:EOLhyphen"/>mandments, and ſee the Felicity of thy choſen, and rejoyce and give thanks with thine Inheritance.</hi>
+                  </p>
+                  <p n="2">
+                     <hi>II. TO this End, ſend thy Holy Spirit into my Heart, to teach me to deny, all ungodlineſs and
+<pb n="26" facs="tcp:32301:15"/>Worldly Luſts, and to live Righte<g ref="char:EOLhyphen"/>ouſly, Godly, and Soberly in this preſent World, remembring the great Account I am to make at the laſt day; O let it ſubdue every Proud thought, and vain imagina<g ref="char:EOLhyphen"/>tion, that ſhall exalt it ſelf againſt the Scepter of thy Kingdom.</hi>
+                  </p>
+                  <p n="3">
+                     <hi>III. GIVE me, I beſeech thee, either Peace from temptations, or Victory over them; in all Aſſaults of my Ghoſtly Enemy, let thy Migh<g ref="char:EOLhyphen"/>ty hand have preheminence and bring mighty things to paſs, even Victory and Deliverance unto me the unworthieſt of thy Servants, that ſo by the Aſſiſtance of thy Holy Spirit, I may Crucifie the Old Man, Mortifie the Works of the Fleſh, ſubdue my Corrup<g ref="char:EOLhyphen"/>tions,</hi>
+                     <note n="*" place="margin">Here Name the parti<g ref="char:EOLhyphen"/>culars.</note> 
+                     <hi>Vanquiſh Satan, and Try<g ref="char:EOLhyphen"/>umph over the Powers of the Kingdom of Darkneſs.</hi>
+                  </p>
+                  <p n="4">
+                     <hi>IV. O put thy fear into my Heart, that I may never depart from thee; put thy Love into my
+<pb n="27" facs="tcp:32301:15"/>Heart, that my Luke-warmneſs being raiſed us to the Flames and Fervency of Cherubims, I may love thee above all things, and loving thee above all things, I may fear to offend ſo good and ſo gracious a God as thou Art; waſh away all my ſins in that Sea of Blood which thy Son Chriſt Jeſus ſhed for me and for the ſins of the whole World; and grant that I may re<g ref="char:EOLhyphen"/>ceive the full benefit of his Death and Paſſion, in this moſt Holy Sacrament, with a free Pardon of all my ſins and manifold tranſ<g ref="char:EOLhyphen"/>greſſions.</hi> Amen.</p>
+                  <p>
+                     <label type="rubric">Then Read the <hi>Pſalms</hi> and Leſ<g ref="char:EOLhyphen"/>ſons appointed for the day.</label>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div n="wednesday" type="day">
+            <div n="morning" type="time">
+               <div type="meditations">
+                  <head>Meditations for <hi>Wedneſ<g ref="char:EOLhyphen"/>day</hi> Morning.</head>
+                  <div type="part">
+                     <p>BLESSED are they that had rather endure Affliction with the People of God, than to enjoy the Pleaſures of ſin for
+<pb n="28" facs="tcp:32301:16"/>a Seaſon? This O my Soul, is the way to beatitude; how ſtrange ſoever it may ſeem to our ſenſe: theſe are the Words of the Eternal Verity, how im<g ref="char:EOLhyphen"/>probable ſoever they may ſound to our Ear; chooſe whether here thou wilt be falſly happy for a while, or truly happy here<g ref="char:EOLhyphen"/>after for ever: if we reſolve for the Bliſs of the Life to come, we are like to meet with Affli<g ref="char:EOLhyphen"/>ction in this; and if we place our Felicity in this, we are ſure to meet with Miſery in the other.</p>
+                     <closer>God be Merciful to me, a ſinner.</closer>
+                  </div>
+                  <div type="part">
+                     <p n="2">II. LORD, either make me think my ſelf Blind enough, to need the guidance of the wiſe, or be indeed wiſe enough to guide my ſelf, that I may en<g ref="char:EOLhyphen"/>ter at laſt by thee, the door of Life, and feed my Soul on thy joys for ever. Deliver me, O Lord, from encreaſing my guilt by ſinning againſt my know<g ref="char:EOLhyphen"/>ledge,
+<pb n="29" facs="tcp:32301:16"/>or hoping in my Igno<g ref="char:EOLhyphen"/>rance to excuſe my guilt; call me after thee, who art gone be<g ref="char:EOLhyphen"/>fore, and make me hear thy Voice and follow it.</p>
+                     <closer>O Lord, hear me, and be merciful unto me, for thy Name ſake.</closer>
+                  </div>
+                  <div type="part">
+                     <p>DELIVER me, O Lord, from thoſe deſperate Sins, which ſo rarely are pardoned, that they are ſaid to be unpardonable: Deliver me from reſiſting the motions of thy Spirit, and from Choaking the Convictions of my own Conſcience; Deliver me, O Lord! and never let the Di<g ref="char:EOLhyphen"/>vil of Blaſpemy enter into me, or any of thy Servants, but en<g ref="char:EOLhyphen"/>ter thou, O Deareſt <hi>Jeſu,</hi> and poſſeſs my Heart for ever: caſt out by thy powerful Grace every wicked Spirit which Mo<g ref="char:EOLhyphen"/>leſts me; and Conquer my ſtrong Corruptions; that elſe will overcome me.</p>
+                     <closer>O Lord, if thou wilt, thou canſt make me clean.</closer>
+                  </div>
+                  <div type="part">
+                     <pb n="30" facs="tcp:32301:17"/>
+                     <p n="4">IV. DELIVER me, O Lord, from every leaſt degree of un<g ref="char:EOLhyphen"/>charitable provoking my Neigh<g ref="char:EOLhyphen"/>bour; that I Imbitter not my Life with Mutual Animoſities, nor make void my Piety by an obſtinate wilfulneſs; but obſer<g ref="char:EOLhyphen"/>ving the Rules of my wiſe Re<g ref="char:EOLhyphen"/>deemer, eſcape the Miſeries that would ſpring from my Follies. Deliver me, O Lord, from every leaſt degree of un<g ref="char:EOLhyphen"/>duly loving my Neighbour; that I ſet not my Heart upon ſenſual pleaſures, nor Imbroil my Memory with Impute thoughts.</p>
+                     <closer>Good Lord, Deliver me.</closer>
+                  </div>
+               </div>
+               <div type="confession">
+                  <head>An humble Confeſſion of Sins before the Holy <hi>Sacra<g ref="char:EOLhyphen"/>ment.</hi>
+                  </head>
+                  <div type="part">
+                     <p>HAVE Mercy upon me, O God, after thy great good<g ref="char:EOLhyphen"/>neſs, according to the multitude
+<pb n="31" facs="tcp:32301:17"/>of thy Mercies do away mine offences, for I will confeſs my Wickedneſs and be ſorry for my Sin. O Lord, I am not worthy to be counted amongſt the pooreſt of thy Servants: I am not worthy to be fed with the ſmalleſt Crums which falls from the Table of thy Ordinary Providence, but to be ſhut out of thy preſence for ever with un<g ref="char:EOLhyphen"/>believers and Reprobates.</p>
+                     <closer>Lord be merciful to me a ſinner.</closer>
+                  </div>
+                  <div type="part">
+                     <p n="2">II. O Lord, I am the vileſt, and the worſt of ſinners, full of Pride, Vain Glory, Impatient of Scorn, or juſt reproof; diſo<g ref="char:EOLhyphen"/>bedient to my Superiours, and churliſh and ungentle to my Equals and Inferiors, I am An<g ref="char:EOLhyphen"/>gry and Peeviſh many times without Occaſion, envious at Good and rejoyceing at Evil; I am negligent, Idle and uſeleſs, timerous, baſe, jealous and im<g ref="char:EOLhyphen"/>pudent, ambitious and very hard hearted, unmortified, and effe<g ref="char:EOLhyphen"/>minate
+<pb n="32" facs="tcp:32301:18"/>in my Life, indevout in my Prayers, without fervency, or affection. [Here name your particular ſins.]</p>
+                     <closer>Lord be merciful to me a ſinner.</closer>
+                  </div>
+                  <div type="part">
+                     <p n="3">III. I am guilty of Gluttony, and Curioſity in Meat and Drink, making Proviſion for the Fleſh, from whence, hath ſprung forth impure thoughts, which have made me prone to unclean and unjuſt Actions; and the ſpirit of unchaſtity, hath entred and unhallowed the Temple of my Body, which thou haſt Commanded to be a receptacle for thy Holy and Bleſſed Spirit.</p>
+                     <closer>Lord be merciful to me a ſinner.</closer>
+                  </div>
+                  <div type="part">
+                     <p>ALL my ſenſes, have been in<g ref="char:EOLhyphen"/>lets of ſin, mine Eyes have been Adulterous, wandring and Co<g ref="char:EOLhyphen"/>vetous; my Ears delighted with obſcene Words, ſlanderous and reproachful Speeches; my Pa<g ref="char:EOLhyphen"/>late looſe, wanton and intem<g ref="char:EOLhyphen"/>perate;
+<pb n="33" facs="tcp:32301:18"/>my Tongue talkative, Lying, Raſh, and Malitious; Flattering, Irreligious and Cen<g ref="char:EOLhyphen"/>ſorious, my Hands have been unclean and ſlothful, my deſires unreaſonable and unſatiable; all the Members of my Body, and the Faculties of my Soul, have been Servants of ſin, and Wea<g ref="char:EOLhyphen"/>pons of unrighteouſneſs.</p>
+                     <closer>Lord be merciful to me a ſinner.</closer>
+                  </div>
+                  <div type="part">
+                     <p n="5">V. I have not, O Lord, been guilty of my own ſins; but I have alſo been guilty of the ſins of others, not only by neglecting to reprove or hinder them in the ways of ſin, but I have en<g ref="char:EOLhyphen"/>couraged them, by taking off their Fears, and hardning their Conſciences, and had tempted them directly to their Ruin and my own, but thy prevent<g ref="char:EOLhyphen"/>ing Grace put a ſtop to ſo great a Miſery.</p>
+                     <closer>Lord be merciful to me a ſinner.</closer>
+                  </div>
+                  <div type="part">
+                     <p n="6">VI. THY Mercies, O Lord
+<pb n="34" facs="tcp:32301:19"/>I have abuſed thy judgments, I have deſpiſed, and have turned thy Grace into Wantonneſs; I have committed ſin, and have repented, and have ſinned again. I have ſet up reſolutions, but have immediately broke them; I have tyed my ſelf up with Vows, but preſently have been tempted, and yielded by little and little, till I was willingly loſt, and my Vows ſignified no more than vain Promiſes.</p>
+                     <closer>Lord be merciful to me a Sinner,</closer>
+                  </div>
+                  <div type="part">
+                     <p n="7">VII. O Lord, I ſtand guilty, of another heap of ſins, my ſecret ones which are innumer<g ref="char:EOLhyphen"/>able, ſins of Omiſſion, and ſins willingly neglected; ſins of wil<g ref="char:EOLhyphen"/>ful Ignorance, and voluntary miſperſuation; ſins of forget<g ref="char:EOLhyphen"/>fulneſs, and ſins which a watch<g ref="char:EOLhyphen"/>ful Spirit might have prevented; the multitude of them, O Lord, Confounds me, and the re<g ref="char:EOLhyphen"/>membrance of them is horri<g ref="char:EOLhyphen"/>ble; they are a ſight too loath<g ref="char:EOLhyphen"/>ſome,
+<pb n="35" facs="tcp:32301:19"/>and unſufferable is their Burden.</p>
+                     <closer>Lord be merciful to me a ſinner.</closer>
+                  </div>
+                  <div type="part">
+                     <p n="8">VIII. YET, O Lord thy mer<g ref="char:EOLhyphen"/>ciful Eye hath ſpared me to this preſent, and haſt not caſt me into Hell, among the Damn<g ref="char:EOLhyphen"/>ed, which by my ſins I have long ſince deſerved, and to have been lockt up to an Eternity of Torments, with inſupportable amazements; too long, O Lord, I have ſinned againſt thee, and long ſince deſerved thy ſevereſt Scourges; I have committed iniquity in thy ſight, and can<g ref="char:EOLhyphen"/>not eſcape thy Juſtice, but by flying to thy Mercy.</p>
+                     <closer>O Lord be merciful to me a ſinner.</closer>
+                  </div>
+               </div>
+               <div type="prayer">
+                  <head>The PRAYER.</head>
+                  <p>O <hi>Lord, give me a deep Con<g ref="char:EOLhyphen"/>trition for my ſins. and a Hearty Deteſtation and loathing of them, give me Grace intirely, pre<g ref="char:EOLhyphen"/>ſently, and for ever to forſake them;
+<pb n="36" facs="tcp:32301:20"/>and grant that I may walk with Care and Prudence, with Fear and Watchfulneſs all my days, per<g ref="char:EOLhyphen"/>forming my Duty with Dilligence and Charity, with Zeal, and a never fainting Spirit.</hi>
+                  </p>
+                  <p n="2">
+                     <hi>II. Deliver me, O Lord, from ex<g ref="char:EOLhyphen"/>tream Calamities here; and De<g ref="char:EOLhyphen"/>liver me from Eternal Vengeance hereafter, look down with Com<g ref="char:EOLhyphen"/>paſſion on the Work of thine own Hands, and gently Chaſtiſe me with thy Rod of Diſcipline, but ſuffer not my weakneſs to be Op<g ref="char:EOLhyphen"/>preſſed with too heavy Afflictions, nor my Patience Tempted above my Strength.</hi>
+                  </p>
+                  <p n="3">
+                     <hi>III. INSTR<g ref="char:V">Ʋ</g>CT me how to Redeem my time, to truſt in thy Mercies, and to make the beſt uſe of the means of Grace, for the Working out my Salvation with Fear and Trembling; that thou mayeſt have the Glory in Pardon<g ref="char:EOLhyphen"/>ing all my ſins, and I reap the be<g ref="char:EOLhyphen"/>nefit of all thy Mercies, let all thy Graces guide me to a Holy life here, that I may Reign with thee
+<pb n="37" facs="tcp:32301:20"/>for ever hereafter in thy Kingdom of Glory.</hi> Amen.</p>
+                  <p>
+                     <label type="rubric">Read <hi>Plal.</hi> 6.32.38. 1 Leſſon, <hi>Ezek.</hi> 16. 2 Leſſon St. <hi>Mat.</hi> 7.</label>
+                  </p>
+               </div>
+            </div>
+            <div n="evening" type="time">
+               <div type="meditations">
+                  <head>Meditations for <hi>Wedneſ<g ref="char:EOLhyphen"/>day</hi> Evening.</head>
+                  <p>LORD, not the meaneſt Cir<g ref="char:EOLhyphen"/>cumſtance of my Life, but is known to thee; not the leaſt Aſſiſtance I need, but thou kindly provideſt a particular ſupply; let me but do what thou haſt appointed, and I am ſure to find true, all thou haſt promiſed; thy Commands are ſweet and eaſie, O give me Grace to Obey them! Thy Directions are clear and ſafe; O guide me ſtill to follow them.</p>
+                  <p n="2">II. BEHOLD, dear Lord, to thee I come, and open before thee all my Infirmities; my mind is Sick of the Palſie, and
+<pb n="38" facs="tcp:32301:21"/>my Faculties be numb'd with a Dead Sluggiſhneſs; I am apt to cenſure the good Works of others, but ſlow to the perform<g ref="char:EOLhyphen"/>ance of any my ſelf; heal me, O thou Heavenly Phyſitian, whoſe Mercy both Cures the Sick and Pardons the Penitent; O make me quickly riſe from the ſins wherein I have lain too long, and ſtrengthen me to Conquer my Corrupted Nature; that I may walk towards thee my Eternal home, and praiſe thy Name for ever more.</p>
+                  <p n="3">III. Whether alaſs! Do my Paſſions lead me? How deſperate<g ref="char:EOLhyphen"/>ly does one Darling Sin engage into others. Deliver me, O Lord, in the firſt beginnings, and ſuf<g ref="char:EOLhyphen"/>fer not my Faults, to become ſtrong &amp; Cuſtomary, leſt I grow at length to deſpiſe reproof, and hate my reprover. <hi>Herod</hi> knew <hi>John</hi> to be juſt, yet kept him in Priſon; he heard him gladly, yet Cut off his Head; nothing
+<pb n="39" facs="tcp:32301:21"/>ſo imbroyl'd as a vicious Life; nothing ſo full of Contradicti<g ref="char:EOLhyphen"/>on as a wicked Conſcience.</p>
+                  <p n="4">IV. CLEANSE thou my Heart, O Lord, from all Vain and unlawful thoughts, my Mouth from all Fooliſh and Idle words, and my whole Life from all Wicked and unprofitable Deeds; for in that great and terrible day, by what I am, I ſhall be juſtified; and by what I am, be Condemned; how many in that day, will riſe up againſt me! How will my own Conſcience Reproach and Con<g ref="char:EOLhyphen"/>found me! If I neglect ſuch motives to repentance, if I re<g ref="char:EOLhyphen"/>fuſe the wiſdom of the Son of God, who came down from the higheſt Heavens himſelf to teach me.</p>
+               </div>
+               <div type="prayer">
+                  <head>The PRAYER.</head>
+                  <p>O <hi>Lord God, whoſe Power is Infinite, and Purity ſuch, that it cannot endure the behold<g ref="char:EOLhyphen"/>ing
+<pb n="40" facs="tcp:32301:22"/>any thing that is unclean; how ſhould I that am Forlorn Duſt and Aſhes, very ſinful Fleſh, pre<g ref="char:EOLhyphen"/>ſume or dare to preſent my ſelf be<g ref="char:EOLhyphen"/>fore thee? When I look on the vileneſs of my Nature, and the ſinfulneſs of my Life, I cannot chooſe but Cry out and ſay, woe unto me, I am undone, I am one of <g ref="char:V">Ʋ</g>nclean Lips: The very Prayers I make to crave Pardon for my Sins, are ſtained in the uttering, and muſt needs add to my Tranſgreſſions, if in Judgment, or Juſtice, though ſhouldeſt weigh or examine them.</hi>
+                  </p>
+                  <p n="2">
+                     <hi>II. B<g ref="char:V">Ʋ</g>T, O Lord, thou art a God of Infinite Compaſſion, Par<g ref="char:EOLhyphen"/>doning Iniquity, Tranſgreſſion and Sin, that wouldeſt not the Death of a ſinner, but that he be conver<g ref="char:EOLhyphen"/>ed and live; thou haſt not only Allowed me, but Commanded me to call upon thee, in all my trou<g ref="char:EOLhyphen"/>bles and diſtreſſes; thou haſt pro<g ref="char:EOLhyphen"/>miſed that at what time ſoever a ſinner doth Repent him of his ſins, thou wilt put away all his Ini<g ref="char:EOLhyphen"/>quities
+<pb n="41" facs="tcp:32301:22"/>out of thy Remembrance.</hi>
+                  </p>
+                  <p n="3">
+                     <hi>III. IN Obedience therefore to this thy Command, and in Confi<g ref="char:EOLhyphen"/>dence of this thy Promiſe, I am Emboldoned at this time to appear before thee, Renouncing all merit, and truſt, all Confidence and Af<g ref="char:EOLhyphen"/>fiance in my ſelf, and relying only on thy Mercy, and the Soveraign Mediation of my Lord and Saviour</hi> Jeſus <hi>Chriſt, in whom only thou art well pleaſed, and through whom, thou canſt not be offended with me.</hi>
+                  </p>
+                  <p n="4">
+                     <hi>IV. O Lord, hear thine own Son for me O Lord, hear thine own ſelf in me; that Bleſſed Spirit of thine, which makes Interceſſion for me, with Groans and Sighs that cannot be expreſſed; Pardon and Forgive all my ſins, both Original and Actual; of Omiſſion or Commiſſion, of Thought, Word, and Deed, of Igno<g ref="char:EOLhyphen"/>rance, Infirmity, or Preſumption,</hi>
+                     <note n="*" place="margin">Here Name the Parti<g ref="char:EOLhyphen"/>culars.</note> 
+                     <hi>which I have at any time Commit<g ref="char:EOLhyphen"/>ted againſt thee; Nail them to the</hi> Croſs <hi>of</hi> Chriſt,
+<pb n="42" facs="tcp:32301:23"/>
+                     <hi>that they may never riſe up in judg<g ref="char:EOLhyphen"/>ment againſt me, either to ſhame me in this World, or Condemn me in the World to come.</hi>
+                  </p>
+                  <p n="5">
+                     <hi>V. B<g ref="char:V">Ʋ</g>RY them in the Bottom<g ref="char:EOLhyphen"/>leſs Sea of thy Mercy and forgetful<g ref="char:EOLhyphen"/>neſs, that they may never appear before thee to hinder thy Favours unto me; Seal the Remiſſion of them to my Soul and Conſcience, that they may not Diſtract or Di<g ref="char:EOLhyphen"/>ſturb me in my Devotion; and Cruſh and Subdue the Rebellions of my Nature, that they may no long<g ref="char:EOLhyphen"/>er Reign in my Mortal Body; and having Cleanſed and Purified me, from all Spots and Stains of Sin, I beſeech thee, O Lord, to pour thy Grace and Holy Spirit into me, that may enable me to walk be<g ref="char:EOLhyphen"/>fore thee in Holineſs and Righteouſ<g ref="char:EOLhyphen"/>neſs, and in Sobriety, all the days of my Life.</hi>
+                  </p>
+                  <p>
+                     <label type="rubric">Read <hi>Pſalm</hi> 51.102.130.140. 1 Leſſon, <hi>Ezek.</hi> 18. 2 Leſſon, <hi>Rom.</hi> 12.</label>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div n="thursday" type="day">
+            <div n="morning" type="time">
+               <div type="meditations">
+                  <pb n="43" facs="tcp:32301:23"/>
+                  <head>Meditations for <hi>Thurſday</hi> Morning.</head>
+                  <p>O My Soul, we are very in<g ref="char:EOLhyphen"/>conſtant; ſometimes we endeavour to heartily Repent, and after a while miſcarry again; often we pretendedly reſolve to amend, and yet ſometimes for<g ref="char:EOLhyphen"/>get our good purpoſes! Bewail thy Infirmities, Renew thy In<g ref="char:EOLhyphen"/>tentions, and be of good Com<g ref="char:EOLhyphen"/>fort; our Lord has overcome the World: He overcame it with his own ſtrong Arm, and left thee Rules, and Grace, and Sacraments to help thee; that, if thou canſt not have Peace with thy Enemies, thou mayſt at leaſt have Victory over them:</p>
+                  <p n="2">II. Often, O Lord, thou in<g ref="char:EOLhyphen"/>viteſt us to thy Holy Table, and often do we neglect and refuſe to come; thou inviteſt us to the Pleaſures of a Virtuous Life,
+<pb n="44" facs="tcp:32301:24"/>and the continual Feaſt of a good Conſcience, thou provideſt a Heavenly Banquet, and mak<g ref="char:EOLhyphen"/>eſt thy Son himſelf our Delici<g ref="char:EOLhyphen"/>ous Entertainment; O Cloath us, Gracious Lord, with the Wedding Garment of Charity to thee, and one another; that we may Enter with Joy into the Marriage Chamber, and Sit down as happy Gueſts in thy Kingdom for Ever. Let us not Trifle away our time in Wan<g ref="char:EOLhyphen"/>dering up and down, nor prefer a Petty Intereſt before thy Glo<g ref="char:EOLhyphen"/>rious Rewards, leaſt we be Con<g ref="char:EOLhyphen"/>founded when our King ſhall come in Majeſty, and Command the unprepared into Chains of Darkneſs.</p>
+                  <p n="3">III. THOU art, O <hi>Jeſu!</hi> the true Coeleſtial <hi>Manna,</hi> of which whoever Eats ſhall Live Eternally; thou art the Bread of God that Deſcended from Heaven, of which, who ever Feeds ſhall never Hunger: Caſt me not out, O Lord, whom thy
+<pb n="45" facs="tcp:32301:24"/>Mercy has Adopted into thy own Family; but give me this Bread of thy Children for Ever. Thou who cameſt down to do thy Fathers Will, and has taught me 'tis thy Father's Will, that of thoſe he has given thee, none be loſt.</p>
+                  <p n="4">IV. Murmur no more among your ſelves, unhappy Atheiſti<g ref="char:EOLhyphen"/>cal Diſ-believers of the Myſter<g ref="char:EOLhyphen"/>ries of Heaven; be no more Incredulous, but ſubmit your Reaſon to him whom you know to be Infallible. The Bread I will give is my Fleſh for the Life of the World, which Re<g ref="char:EOLhyphen"/>ceived by Faith, is the Souls Nouriſhment. Draw them, O Heavenly Father! that they may come to thee; receive them, O Gracious Jeſus! and Teach their Hearts to believe what thine own Bleſt Mouth has ſo clearly taught them.</p>
+               </div>
+               <div type="prayer">
+                  <pb n="46" facs="tcp:32301:25"/>
+                  <head>The PRAYER.</head>
+                  <p>
+                     <hi>OH! Moſt Glorious, and moſt Power ful Lord God, whoſe dwelling is above the Heavens in Light in Acceſſible, and thine Eyes run to and fro, to behold the things which are in Heaven and in Earth; neither is there any thing which is not Naked and open unto thee; for thine Eyes are Ten Thouſand times brighter than the</hi> Sun, <hi>beholding all the Ways of Men.</hi>
+                  </p>
+                  <p n="2">
+                     <hi>II. LOOK upon me O Lord, who am the unworthieſt of all thy Servants, thou haſt made me a Member, O Lord, of that Myſtical Body whereof thy Son</hi> Chriſt Je<g ref="char:EOLhyphen"/>ſus <hi>is the Head, make me there<g ref="char:EOLhyphen"/>fore ſenſible of the neceſſities of the</hi> Catholick Church; <hi>I be<g ref="char:EOLhyphen"/>ſeech thee to be merciful unto it, and to every Member of the ſame, whereſoever Diſperſed, howſoever Diſtreſſed, or by Whomſoever Di<g ref="char:EOLhyphen"/>ſpiſed throughout this <g ref="char:V">Ʋ</g>niverſal World.</hi>
+                  </p>
+                  <pb n="47" facs="tcp:32301:25"/>
+                  <p n="3">
+                     <hi>III. Oh Lord, call them that are yet Strangers, and have not yet heard of thy Name; reduce and bring home thoſe that are gone aſtray, and wander; raiſe up all that are fallen, and confirm and ſtrengthen ſuch as do ſtand; bind up all that are Broken, and heal all that are Bruiſed; <g ref="char:V">Ʋ</g>nite us all in ſoundneſs of Doctrine, by the Spirit of Truth, in holineſs of Life, by the Spirit of Sanctifica<g ref="char:EOLhyphen"/>tion, and in Brotherly Compaſſion, and Chriſtian Affection, by the Spirit of Love.</hi>
+                  </p>
+                  <p n="4">
+                     <hi>IV. O Lord, I beſeech thee, to open the Bowels of thy Mercy, and to pour out thy tendereſt Com<g ref="char:EOLhyphen"/>paſſion upon all ſuch as mourn un<g ref="char:EOLhyphen"/>der the weight of their Afflictions; many are the troubles of thy poor Servants, and thou only knoweſt how to deliver them out of all their troubles; whether therefore any be inwardly diſtreſſed in Soul, Mind, or Conſcience, or outward<g ref="char:EOLhyphen"/>ly Afflicted in Body, Eſtate or good Name; I beſeech thee, give
+<pb n="48" facs="tcp:32301:26"/>them ſpeedy caſe out of their miſe<g ref="char:EOLhyphen"/>ry, or Patience to endure what thou ſhalt be pleaſed to lay upon them.</hi>
+                  </p>
+                  <p n="5">
+                     <hi>V. I beſeech thee to open the Eyes of thoſe that lie on their Beds of Sickneſs; Oh! thou that art the God of Health, and ſender of Sickneſs; Sanctifie thy Viſita<g ref="char:EOLhyphen"/>tion unto them, make their Beds in their Sickneſs, lay no more up<g ref="char:EOLhyphen"/>on them than thou wilt give them ſtrength and Patience to bear, and if it may ſtand with thy Gra<g ref="char:EOLhyphen"/>cious Will, grant that they may recover their former Health, to do thee Service hereafter.</hi>
+                  </p>
+                  <p n="6">
+                     <hi>VI. B<g ref="char:V">Ʋ</g>T if thou that knoweſt what is beſt needful for them, haſt determined at this time, to take any of them unto thy ſelf, O Lord, I beſeech thee to fit and prepare them for the hour of Death; give them a true feeling of their ſins, and a lively appre<g ref="char:EOLhyphen"/>henſion of thy mercy in</hi> Chriſt Jeſus, <hi>that ſo ſurely Repenting of thee one, and chearfully laying
+<pb n="49" facs="tcp:32301:26"/>hold on the other, they may with Confidence and Comfort reſign up their Souls into the Hand of thee their moſt merciful Creator and Redeemer.</hi> Amen.</p>
+                  <p>
+                     <label type="rubric">Read the <hi>Pſalms,</hi> and Leſſons for the Day.</label>
+                  </p>
+               </div>
+            </div>
+            <div n="evening" type="time">
+               <div type="meditations">
+                  <head>Meditations for <hi>Thurſday</hi> Evening.</head>
+                  <p>PREPARE my Heart, O God, to receive thee, whom my Soul loveth; for thou haſt the Words of Eternal Life: Bleſ<g ref="char:EOLhyphen"/>ſed O gracious <hi>Jeſu,</hi> be the ſweetneſs of thy Spirit, which ſo kindly inviteſt me to re<g ref="char:EOLhyphen"/>freſh my wearineſs. I know, and thine own ſure word has told me, If I Labour for thee here, I ſhall reſt with thee hereafter. Lord, make me follow thee wherever thou go<g ref="char:EOLhyphen"/>eſt, and ſtrive and run to be
+<pb n="50" facs="tcp:32301:27"/>firſt in thy Preſence; there I ſhall meet a Mercy that will regard and pity me; there I ſhall find a goodneſs that will teach and relieve me.</p>
+                  <p n="2">II. WRITE all thy Holy Truths in my Soul, O Lord, and Print thy Love in the Cen<g ref="char:EOLhyphen"/>ter of them all; there let it ſit as Soveraign Governour, and ab<g ref="char:EOLhyphen"/>ſolutely diſpoſe of all my inte<g ref="char:EOLhyphen"/>reſts: Let it command my Tongue to confeſs thee, and no fear of Danger make me ever deny thee; let it com<g ref="char:EOLhyphen"/>mand all my Powers to ſerve thee, and nothing but thy Love find place in my Heart.</p>
+                  <p n="3">III. O when ſhall I come to thy Holy Table, to taſt of thy moſt delicious Banquent; to hear thoſe Sweet and Ra<g ref="char:EOLhyphen"/>viſhing Words, <hi>He dwells in me, and I in him:</hi> ſweet in ex<g ref="char:EOLhyphen"/>ceſs to the Soul that loves, and Taſts the joys of this heavenly Converſe, and feeds on the wonders of this admirable Uni<g ref="char:EOLhyphen"/>on:
+<pb n="51" facs="tcp:32301:27"/>
+                     <hi>He dwells in me, and I in Him.</hi> O Bleſt and Glorious Words! What can be ſaid more full of Grace and Strength and Supernatural Myſtery? Here they alone are my Heaven on Earth, and will hereafter be my Heaven in Heaven.</p>
+                  <p n="4">IV. To thee my great Crea<g ref="char:EOLhyphen"/>tor! I humbly Sacrifice the Nobleſt faculty thou haſt given me; to thee, and to the Obe<g ref="char:EOLhyphen"/>dience of thy Truth, I entire<g ref="char:EOLhyphen"/>ly Reſign and Captivate my underſtanding. Thy Words, O Lord, in thy Holy Sacra<g ref="char:EOLhyphen"/>ment, are Spirit and Life unto me; O make my Faith be quick and Active to thee, in receiving ſo great a Salvation: Shall I go back and forſake my God, becauſe he humbles him<g ref="char:EOLhyphen"/>ſelf to approach towards me? Shall I refuſe to Learn of my Maſter, becauſe his Leſſons ex<g ref="char:EOLhyphen"/>alt me, above my Nature.</p>
+               </div>
+               <div type="prayer">
+                  <pb n="52" facs="tcp:32301:28"/>
+                  <head>The PRAYER.</head>
+                  <p>O <hi>Lord, I am too weak to ſerve thee, in my Natural Power, and not careful to improve the Aids of thy Spirit; I am full of inconſideration and careleſneſs, deſirous to be accounted Holy of Men, but careleſs of being ſo to thee, my God; I am unſtedfaſt, O Lord in all my ways;</hi>
+                     <note n="*" place="margin">Here Name the Parti<g ref="char:EOLhyphen"/>culars.</note> 
+                     <hi>but, enable me to con<g ref="char:EOLhyphen"/>feſs my Faith, in deſpight of all the Oppoſitions of</hi> Satan; <hi>to Pub<g ref="char:EOLhyphen"/>liſh thy Laws, ſubmit to thy diſ<g ref="char:EOLhyphen"/>penſations, and to Glorifie thy Holy Name, by Holy living and dying.</hi>
+                  </p>
+                  <p n="2">
+                     <hi>II. BLESS me, O Lord, with all the Bleſſings, and Aſſiſtance of thy Spirit and Providence; let the Daily Sacrifice of Prayer, and Euchariſt in thy Church ne<g ref="char:EOLhyphen"/>ver ceaſe, but for ever be pre<g ref="char:EOLhyphen"/>ſented unto thee, <g ref="char:V">Ʋ</g>nited to the
+<pb n="53" facs="tcp:32301:28"/>interceſſion of our Lord, and for ever prevail for the obtaining to all her Sons and Daughters, Grace, and Bleſſing, Pardon, and Holi<g ref="char:EOLhyphen"/>neſs, Perſervance, and Glory. <g ref="char:V">Ʋ</g>nite my Heart and Tongue; take away the Spirit of Error and Diviſion from me, that my Religion and Devotion may in<g ref="char:EOLhyphen"/>creaſe, whereby thy Truth may be promoted, and thy Name Glo<g ref="char:EOLhyphen"/>rified, and me thy unworthy Ser<g ref="char:EOLhyphen"/>vant Inſtructed, and Comforted, let thy Spirit Rule, and all In<g ref="char:EOLhyphen"/>tereſt Stoop and Obey, Publiſh, and Advance the Intoreſt of the Lord Jeſus.</hi>
+                  </p>
+                  <p n="3">
+                     <hi>III. EXTEND thine Accu<g ref="char:EOLhyphen"/>ſtom<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d goodneſs to all thy People; to Old Men, Prudence, and Libe<g ref="char:EOLhyphen"/>rality to Young Men, Obedience, Temperance, Health and Dili<g ref="char:EOLhyphen"/>gence, to Merchants, Juſtice, and Faithfulneſs; to Mechanicks, and Artiſans, Truth and Honeſty, to all Married Pairs, Faith, and Holineſs, Charity, and ſweet Compliances; to all Chriſtian
+<pb n="54" facs="tcp:32301:29"/>Women, the Ornament of a meek, and a quiet Spirit, Chaſtity and Charity, Patience, and Obedience, a Zeal of Duty and Religion.</hi>
+                  </p>
+                  <p n="4">
+                     <hi>IV. TO all that are Sick and Afflicted, diſtreſſed in Conſcience, or Perſecuted for it, give Pati<g ref="char:EOLhyphen"/>ence and Comfort, a ſincere Re<g ref="char:EOLhyphen"/>pentance, and a perfect Reſignati<g ref="char:EOLhyphen"/>on, a love of God, and a Perſe<g ref="char:EOLhyphen"/>verance in Duty, proportionable Comfort in this Life, and an Eternal weight of Glory in the Day of our Lord Jeſus Chriſt.</hi> Amen.</p>
+                  <p>
+                     <label type="rubric">Read the <hi>Pſalms</hi> and Proper Leſſons appointed for the day.</label>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div n="friday" type="day">
+            <div n="morning" type="time">
+               <pb n="55" facs="tcp:32301:29"/>
+               <div type="meditations">
+                  <head>Friday <hi>Mornings Medita<g ref="char:EOLhyphen"/>tions, On the Life of the Holy Jeſus.</hi>
+                  </head>
+                  <div type="part">
+                     <head>On the Incarnation of our Bleſſed Redeemer.</head>
+                     <p>O Moſt Bleſſed <hi>Jeſu,</hi> who for the Redemption of the World, Vouchſafeſt to be made Man; by the ever Bleſ<g ref="char:EOLhyphen"/>ſed Merits of thy Myſterious Incarnation, grant me to be<g ref="char:EOLhyphen"/>come one Spirit with thee, who became one Fleſh with me.</p>
+                  </div>
+                  <div type="part">
+                     <head>Nativity.</head>
+                     <p n="2">II. Bleſſed <hi>Jeſu,</hi> who waſt Born of a pure Virgin, by the power of the Holy Ghoſt; grant me by the ſame Almigh<g ref="char:EOLhyphen"/>ty Power, to poſſeſs a pure Vir<g ref="char:EOLhyphen"/>gin Soul, in a pure and Chaſſe
+<pb n="56" facs="tcp:32301:30"/>Temple of my Body, and to be Fruitful in all good works to my lives end.</p>
+                  </div>
+                  <div type="part">
+                     <head>Circumciſion.</head>
+                     <p n="3">III. Bleſſed <hi>Jeſu,</hi> who was Circumciſed, and made Obe<g ref="char:EOLhyphen"/>dient to the Law for Man; grant unto me, I humbly be<g ref="char:EOLhyphen"/>ſeech thee, the true Circumci<g ref="char:EOLhyphen"/>ſion of the Spirit, that my Heart, and all my Members may be Mortified from all Car<g ref="char:EOLhyphen"/>nal and worldly Luſts, that I may in all things Obey thy Bleſſed Will.</p>
+                  </div>
+                  <div type="part">
+                     <head>Baptiſm.</head>
+                     <p n="4">IV. Bleſſed <hi>Jeſu,</hi> by the Merits of thy Holy Baptiſm, waſh me throughly from my Wickedneſs, and Cleanſe me from my Sins, whereby I have Defiled thoſe Sacramental Wa<g ref="char:EOLhyphen"/>ters of my Baptiſm, and per<g ref="char:EOLhyphen"/>juriouſly broken my Vows and Promiſes made therein.</p>
+                  </div>
+                  <div type="part">
+                     <pb n="57" facs="tcp:32301:30"/>
+                     <head>Faſting.</head>
+                     <p n="5">V. Bleſſed <hi>Jeſu,</hi> who didſt Faſt Forty Days and Forty Nights; Pardon and Forgive me all the manifold Acts of Rioting, and exceſs I have been guilty of: and give me Grace to uſe ſuch Abſtinence, that my Fleſh being ſubdued to the Spi<g ref="char:EOLhyphen"/>rit; I may ever Obey thy God<g ref="char:EOLhyphen"/>ly motions in Righteousneſs, and true Holineſs to thy Ho<g ref="char:EOLhyphen"/>nour, and Glory.</p>
+                  </div>
+                  <div type="part">
+                     <head>Temptation.</head>
+                     <p n="6">VI. Bleſſed <hi>Jeſu,</hi> who in thy Holy Faſting, was Temp<g ref="char:EOLhyphen"/>ted by <hi>Satan,</hi> and by thy Al<g ref="char:EOLhyphen"/>mighty Power, didſt Conquer him; grant me, by thy Bleſ<g ref="char:EOLhyphen"/>ſed Spirit, Devoutly to enter<g ref="char:EOLhyphen"/>tain the Holy Duties of Prayer and Faſting, that by the Pow<g ref="char:EOLhyphen"/>er of thy Victory over the De<g ref="char:EOLhyphen"/>vil, I may have Strength and
+<pb n="58" facs="tcp:32301:31"/>Power of over <hi>Satan;</hi> the World and the Fleſh, and con<g ref="char:EOLhyphen"/>tinue thy Servant to my Lives End.</p>
+                  </div>
+                  <div type="part">
+                     <head>Doctrine and Example.</head>
+                     <p n="7">VII. Bleſſed <hi>Jeſu,</hi> who in thy Prophetical Office, didſt Preach the Goſpel, and Hea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> all manner of Sickneſſes and Diſeaſes among the People; and by thy Doctrine and Ex<g ref="char:EOLhyphen"/>ample, art the way and the Truth that leads unto Life <g ref="char:punc">▪</g> Grant me to believe a right, all thy Revelations, to Obey all thy Commands, to walk in thy Steps, and to follow thee, the Light of the World, that I walk not in Darkneſs.</p>
+                  </div>
+                  <div type="part">
+                     <head>Chriſt Conſpired againſt and Betrayed.</head>
+                     <p n="8">VIII. Bleſſed <hi>J<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſu,</hi> whoſe precious Life was Conſpired <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gain7s;<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, by Diſ-believing <hi>J<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>wes,</hi>
+                        <pb n="59" facs="tcp:32301:31"/>and wert Betrayed, and Sold by one of thy own Diſciples for a Vile Price: Deliver me, I Humbly Beſeech thee, from all the Conſpiracies of my Ghoſtly and Bodily Ene<g ref="char:EOLhyphen"/>mies, but eſpecially from the Treachery of my own Heart, and the Rebellion of my Fleſh, which for things of no Value, betrays my Soul to its utter Ruin and Deſtruction.</p>
+                  </div>
+                  <div type="part">
+                     <head>His Agony in the Garden.</head>
+                     <p n="9">IX. Bleſſed <hi>Jeſu,</hi> thy bitter Paſſion was in a Garden, where thy Soul was ſorrowful, even unto Death; Sanctifie, O Lord, all my Infirmities and Paſſions, Comfort me in all my Troubles, and Compoſe my my mind with ſuch a frame of Spirit, that I may be ſenſi<g ref="char:EOLhyphen"/>ble with a Godly Sorrow of that Heavy Wrath and Curſe for ſin, which thou ſufferedſt for me, and all the World.</p>
+                  </div>
+                  <div type="part">
+                     <pb n="60" facs="tcp:32301:32"/>
+                     <head>His Bloody Sweat.</head>
+                     <p n="10">X. Bleſſed <hi>Jeſu,</hi> who upon the Cold Earth, didſt Sweat Drops of Blood, under the Load of our Sins, and Apprehenſi<g ref="char:EOLhyphen"/>ons of thy enſuing Sufferings; thou offereſt up ſtrong Crys and Tears unto him that is able to ſave: O that my Heart might inwardly Bleed Tears of Compaſſion and Contrition, and vent forth fervent and effectu<g ref="char:EOLhyphen"/>al Prayers with Tears of De<g ref="char:EOLhyphen"/>votion, as to be heard in Hea<g ref="char:EOLhyphen"/>ven, and healed of all my ſin<g ref="char:EOLhyphen"/>ful Infirmities.</p>
+                  </div>
+                  <div type="part">
+                     <head>His Submiſſion.</head>
+                     <p n="11">XI. Bleſſed <hi>Jeſu,</hi> who didſt ſubmit with Patience unto the Will of thy Heavenly Father; Endue me with the ſame Spi<g ref="char:EOLhyphen"/>rit of meekneſs and Patience, ſubmitting my ſelf unto the Will of God, in proſperity and
+<pb n="61" facs="tcp:32301:32"/>adverſity, Health and Sickneſs, Life, and Death.</p>
+                  </div>
+                  <div type="part">
+                     <head>His Apprehenſion.</head>
+                     <p n="12">XII. Bleſſed <hi>Jeſu,</hi> thou waſt Apprehended, and bound as a Malefactor, but wert clearer than an Angel of Light; O let not my Soul be Arreſted by Infernal Fiends, to Eternal Horrour in the other World, but from the Eternal Malice of the Spirits of Darkneſs, and from the Bonds and Chains of my Sins. <hi>Good Lord Deliver me.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="prayer">
+                  <head>The PRAYER.</head>
+                  <p>O <hi>Lord, moſt Holy, my ſins are more in number than the Hairs of my Head, and the weight of them Cries a loud to Heaven for Mercy; I beſeech thee, O God the Father of Heaven, thou great Creator and Preſerver of Man, deſpiſe not the Work of thine own Hands, O God the Son
+<pb n="62" facs="tcp:32301:33"/>that cameſt into the World to ſave Sinners, Remember not my Offen<g ref="char:EOLhyphen"/>ces, neither ſeek thou Vengeance of my ſins, but good Lord ſpare me thy unworthy Servant, whom thou haſt Redeemed with thy moſt Precious Blood, and be not An<g ref="char:EOLhyphen"/>gry with me for ever; O God, the Holy Ghoſt, that Deſpiſeſt not a Broken and Contrite Heart, let it pitty thee, to ſee theſe thy Temples of my Soul and Body thus Ruin<g ref="char:EOLhyphen"/>ed by ſin and wickedneſs; O Holy, Bleſſed, and Glorious Trinity, Three Perſons, and One God, have Mercy upon me a Miſerable Sinner.</hi>
+                  </p>
+                  <p n="2">
+                     <hi>II. A Sinner, and a grievous Sinner I am; teach me, O God, to grieve that I am ſo, give me a Broken and a Wounded Spirit for all my Tranſgreſſions; Break this Stony Heart of mine, yea take away this Heart of Stone from me, and give me a Heart of Fleſh, that I may tremble at the Voice of thy Law, and melt at the Sight of thy Judgments, and Accuſe
+<pb n="63" facs="tcp:32301:33"/>and Condemn my ſelf, and be ready to joyn with thee to do Ju<g ref="char:EOLhyphen"/>ſtice upon ſuch a ſinner as I am; but leaſt I ſhould faint through the ſmart of the many freſh Bleed<g ref="char:EOLhyphen"/>ing Wounds which my ſins have given my Soul; Oh! do thou up<g ref="char:EOLhyphen"/>hold me by thy Right Hand, and pour into my Wounds that precious Balm of</hi> Gilead, <hi>a true and a lively Faith in the ful ſatisfacti<g ref="char:EOLhyphen"/>on that thy Son hath made to thy Juſtice, for the ſins of the whole World, and through his Croſs and Paſſion, through his moſt Precious Death and Burial, through his Glorious Reſurrection and Aſcention, I beſeech thee, be thou Reconciled unto me.</hi>
+                  </p>
+                  <p n="3">
+                     <hi>III. O Lord, for his ſake, Par<g ref="char:EOLhyphen"/>don all that is paſt, lay none of my ſins to my Charge but Blot them all out of the Book of thy Remembrance; Waſh me, O waſh me, throughly from my ſins, and cleanſe me from my <g ref="char:V">Ʋ</g>nrighteouſ<g ref="char:EOLhyphen"/>neſs, in the Blood of</hi> Jeſus Chriſt. <hi>Lord let his Blood that ſpeaks bet<g ref="char:EOLhyphen"/>ter
+<pb n="64" facs="tcp:32301:34"/>things than that of</hi> Abel, <hi>cry lowder for mercy in thine Ears, than do my ſins for Vengeance, be ſprinkle my Polluted, but Pe<g ref="char:EOLhyphen"/>nitent Soul, In the Blood of</hi> Jeſus, <hi>that thy wrath may paſs over me, and that the light of thy Counte<g ref="char:EOLhyphen"/>nance may ſhine upon me.</hi>
+                  </p>
+                  <p n="4">
+                     <hi>IV. SEAL unto my Soul, the free Pardon and forgiveneſs of all my ſins, and ſay unto my Soul, I am thy Salvation; Oh! do thou by thy Spirit aſſure my Spirit that</hi> I <hi>am thy Child, and that thou art Reconciled unto me, in the Blood of</hi> Jeſus, <hi>and to this end, work into me, a Deteſtation of all my former Wickedneſs, help me in the Mortification of all my Vile and Corrupt Affections; Crucifie in me the Old Man, the whole Body of ſin, that I may Die unto Sin, and live unto Righteouſneſs; and be made a fit Partaker at thy Holy Table.</hi>
+                  </p>
+                  <p>
+                     <label type="rubric">Read <hi>Pſal.</hi> 22.40.54. 1 Leſſ. <hi>Gen.</hi> 22. to v. 20. 2 Leſſ. St. <hi>John</hi> 18.</label>
+                  </p>
+               </div>
+            </div>
+            <div n="evening" type="time">
+               <pb n="65" facs="tcp:32301:34"/>
+               <div type="meditations">
+                  <head>Friday <hi>Evenings Meditati<g ref="char:EOLhyphen"/>ons. On the Paſſion and Death of the Holy Jeſus.</hi>
+                  </head>
+                  <div type="part">
+                     <head>His Arraignment and Condem<g ref="char:EOLhyphen"/>nation.</head>
+                     <p>BLESSED <hi>Jeſu,</hi> thou waſt Seized, and Led as an Innocent Lamb to the Slaugh<g ref="char:EOLhyphen"/>ter; thou waſt Reviled, falſly Accuſed, and Unjuſtly Con<g ref="char:EOLhyphen"/>demned, by unjuſt Earthly Judges, who was thy ſelf the moſt juſt Judge of Heaven and Earth; O Lord, be not a Se<g ref="char:EOLhyphen"/>vere and Angry Judge, when I ſhall ſtand before thy Tribu<g ref="char:EOLhyphen"/>nal, but be thou my Mediator and Advocate to anſwer for me; and I humbly beſeech thee, to Deliver from the Ac<g ref="char:EOLhyphen"/>cuſations of the Devil and his Angels, from the Accuſations of all thoſe who have been
+<pb n="66" facs="tcp:32301:35"/>Conſcious of my many ſinful Pollutions, and from the Ac<g ref="char:EOLhyphen"/>cuſations of my own Conſci<g ref="char:EOLhyphen"/>ence in the day of Judgment.</p>
+                  </div>
+                  <div type="part">
+                     <head>Spitted <g ref="char:V">Ʋ</g>pon.</head>
+                     <p n="2">II. Bleſſed <hi>Jeſu,</hi> whoſe Face was fairer than the Children of Men, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>d bri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hter than the Sun in its <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>ory, was Spit upon by f<gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> and Ignominuos Perſons: Oh! turn thy Face away from my ſins, whereby I have Polluted my Soul, and Prophaned thy Name: But hide not thy Face from me, who for my ſins didſt not turn thy Face from being Spit upon by the Barbarous <hi>Jews.</hi>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <head>Buffeted.</head>
+                     <p n="3">III. Bleſſed <hi>Jeſu,</hi> who waſt Cruelly Treated by the Soldi<g ref="char:EOLhyphen"/>ers, with their Intolerable Rude Cuffs, and hard Injurious Buf<g ref="char:EOLhyphen"/>fets: Grant Lord, that though
+<pb n="67" facs="tcp:32301:35"/>I may feel, yet let me not be Vanquiſhed by the Buffets of Satan.</p>
+                  </div>
+                  <div type="part">
+                     <head>Forſaken of his Friends.</head>
+                     <p>Bleſſed <hi>Jeſu,</hi> thou waſt Con<g ref="char:EOLhyphen"/>tent to be forſaken of all thy friends, and deareſt Diſciples, and to be left in the hands of Cruel Men, who Thirſted after thy precious Blood; O leave me not deſtitute of thy Divine Preſence, when I am Aſſaulted by my Ghoſtly Adverſaries; but be for ever with me, and defend me from all their Ma<g ref="char:EOLhyphen"/>lice, and protect my Soul in all dangers.</p>
+                  </div>
+                  <div type="part">
+                     <head>Denied by <hi>Peter.</hi>
+                     </head>
+                     <p>Bleſſed <hi>Jeſu,</hi> thou with in<g ref="char:EOLhyphen"/>finite goodneſs and meekneſs, lookedſt back on St. <hi>Peter,</hi> when he denied, and forſwore thee, and by thy gracious look, didſt call him back, both to
+<pb n="68" facs="tcp:32301:36"/>himſelf and thee, by true Re<g ref="char:EOLhyphen"/>pentance: Oh look thus upon all Back-ſliders from thee, for their ſincere Converſion; and look upon me alſo, and be mer<g ref="char:EOLhyphen"/>ciful unto me.</p>
+                  </div>
+                  <div type="part">
+                     <head>Scourged.</head>
+                     <p>Bleſſed <hi>Jeſu,</hi> thou was Whip<g ref="char:EOLhyphen"/>ped by a mercileſs Crue of Soldiers, and thy Delicate skin was Torn, and redoubled with their Laſhes, that the Blood Streamed down thy Innocent Sides; but ſince, O merciful Lord, thou was wounded for my Tranſgreſſions, and Bruiſed for mine Iniquities: O let thy Chaſtiſement procure my peace with Heaven, and grant that by thy Stripes my Soul may be healed.</p>
+                  </div>
+                  <div type="part">
+                     <head>Crowned with Thorns.</head>
+                     <p>Bleſſed <hi>Jeſu,</hi> thy Head was Crowned with Thorns, and
+<pb n="69" facs="tcp:32301:36"/>thoſe beaten into thy Temple, with much Rage and Fury: Pardon, O Lord all thoſe ſins, my Eyes, Ears, and Tongue, thoſe Inſtruments of my Head have been guilty of: Break not the Bruiſed Reed, my broken Heart, with the preſſure of thy heavy Wrath, but let thy Thorns the Fruits of the Curſe which we Contracted and thou ſuſtainedſt, deliver me from the Curſe due for my ſins.</p>
+                  </div>
+                  <div type="part">
+                     <head>Renouncing the World.</head>
+                     <p>Bleſſed <hi>Jeſu,</hi> who art the King of Glory, yet waſt Con<g ref="char:EOLhyphen"/>tent with a Croſs for thy Throne, a Wreath of Thorns for thy Crown, and a Reed for thy Scepter; thy Entertainment was Gaul and Vinegar, and for thy Robes, only a little Linnen to cover thy Nakedneſs: O that I were ſo wiſe, as from thy ex<g ref="char:EOLhyphen"/>ample, to deſpiſe all the Guild<g ref="char:EOLhyphen"/>ed Glories, and Vanities of
+<pb n="70" facs="tcp:32301:37"/>this Life, and to chooſe with <hi>Moſes</hi> to ſuffer Affliction, with the People of God, than to en<g ref="char:EOLhyphen"/>joy the Pleaſures of ſin for a Seaſon.</p>
+                  </div>
+                  <div type="part">
+                     <head>Bearing his Croſs.</head>
+                     <p>Bleſſed <hi>Jeſu,</hi> who did with Patience bear thy Croſs, till it ſunck thy Body to the Earth: O let me not ſink under thy Croſs, nor ſhrink from it, but rather chearfully to take it up, whatever it be, and carefully to under go all the Sacred Acts of true Repentance; follow<g ref="char:EOLhyphen"/>ing thee, O Lord, who ſufferedſt for me, leaving me an Example, that I ſhould follow thy ſteps.</p>
+                  </div>
+                  <div type="part">
+                     <head>Crucified.</head>
+                     <p>Bleſſed <hi>Jeſu,</hi> who didſt Hang on a Curſed Tree, to Aboliſh the Curſe contracted by Eating the Fruit of the Forbidden Tree, thou waſt numbred with
+<pb n="71" facs="tcp:32301:37"/>the tranſgreſſors, and Crucifi<g ref="char:EOLhyphen"/>ed among Thieves: O draw my hard and Stony Heart unto thee, and deliver me from that Curſe which my ſins have Con<g ref="char:EOLhyphen"/>tracted, and rank me not among the <hi>Goats</hi> on the Left, but among the Sheep on thy Right Hand, in the great day of Judgment.</p>
+                  </div>
+                  <div type="part">
+                     <head>His Body Tormented.</head>
+                     <p>Bleſſed <hi>Jeſu,</hi> all the parts &amp; Members of thy Body were ſtretched on the Croſs; thy bleſſed Arms and Leggs were by ſuch violence diſtended, that the Joynts were diſparted, the Veins burſt, the Sinews Crackt, the Skin Rent, the Fleſh Tore, and all the Bones Started a ſide: thy Innocent Hands and Feet were Nailed, for the ſinful works of my Head, Heart, Hands and Feet; but I beſeech thee Nail them to thy Croſs, which were the cauſe of thy Crucifixion, hide
+<pb n="72" facs="tcp:32301:38"/>in thy Wounds, who waſt Wounded for my tranſgreſſion, and write thoſe Wounds of thine in my Heart, not with Ink, but with thy Blood, which was ſhed for me.</p>
+                  </div>
+                  <div type="part">
+                     <head>The Sufferings of his Soul.</head>
+                     <p>Bleſſed <hi>Jeſu,</hi> the Sufferings of thy Soul, was exceeding great, being like melted Wax in the Furnace of God's Wrath, for the ſins of the World, when the fulneſs of thy ſufferings be<g ref="char:EOLhyphen"/>ing accompliſhed, thou Com<g ref="char:EOLhyphen"/>mendedſt thy Spirit into the Hands of God: Grant O Lord, that I may Die unto ſin, and Live only unto thee, and by thy bitter Croſs and Paſſion, Cleanſe me from all Filthineſs of Fleſh and Spirit, that I may perfect Holineſs in thy Fear.</p>
+                  </div>
+               </div>
+               <div type="prayer">
+                  <pb n="73" facs="tcp:32301:38"/>
+                  <head>The PRAYER.</head>
+                  <p>O <hi>Lord, without thee I am not able to do any thing, much leſs any thing that is good; come therefore, Oh thou Father of Lights, diſpel and ſcatter from my Soul the Foggy Miſts of ſins and Ignorance, that in thy Light I may ſee Light; come O thou Power of God, and ſet up thy Throne in my Soul, and ſway thy Scepter there, and bring into ſub<g ref="char:EOLhyphen"/>jection every high thought, and every high imagination that ex<g ref="char:EOLhyphen"/>alteth it ſelf againſt thee: Come O thou Wiſdom of God, and diſ<g ref="char:EOLhyphen"/>cover to my Soul the Folly of Sin, the Vanity of the World, and the deceitfulneſs of my own Heart.</hi>
+                  </p>
+                  <p n="2">
+                     <hi>II. TEACH me, I humbly be<g ref="char:EOLhyphen"/>ſeech thee to Eſchew Evil, and Cleave to that which is good; Come, O thou goodneſs of God, and ſhed abroad the love of God in my Heart, that I may love thee my God above all things, and my Neighbour for thy ſake: Yea,
+<pb n="74" facs="tcp:32301:39"/>my very Enemies for Jeſus Chriſt his ſake, and after his Example, who Died for me, while I was yet his Enemy; fit me with all Graces, neceſſary for all Events, with ſtrength to reſiſt all the Temptations of</hi> Satan, <hi>to keep my ſelf unſpotted from the World, to ſubdue my Paſſions, my Vile and Corrupt Affections, with Pa<g ref="char:EOLhyphen"/>tience to bear Afflictions, and with a contented Reſolution, to under<g ref="char:EOLhyphen"/>go whatſoever thy hand ſhall be pleaſed to lay upon me, that whe<g ref="char:EOLhyphen"/>ther it be in Life or in Death, in both I may be thine.</hi>
+                  </p>
+                  <p n="3">
+                     <hi>III. I know O Lord, my ſins are increaſed above meaſure, and my Iniquities are gone over my Head; Nay, they are gone up to Heaven, and have pulled down thy Vengeance upon me; yet how long Lord wilt thou be Angry? for ever? Shall thy Jealouſie Burn like Fire? O remember not againſt me, the ſins and offences of my Life paſt; but let thy tender Mercy ſpeedily prevent me, leſt</hi> I <hi>be
+<pb n="75" facs="tcp:32301:39"/>brought to great miſery; help me, O help m, O God of my Sal<g ref="char:EOLhyphen"/>vation, for the Glory of thy Name; O deliver me and be merciful unto my ſins for thy Names Sake.</hi>
+                  </p>
+                  <p n="4">
+                     <hi>IV. But in the midſt of Judg<g ref="char:EOLhyphen"/>ment Remember Mercy; Par<g ref="char:EOLhyphen"/>don all my crying ſins, Reverſe thy fearful, though juſtly deſer<g ref="char:EOLhyphen"/>ved judgments, and that which is the moſt dreadful of all judg<g ref="char:EOLhyphen"/>ments, and continues thy judg<g ref="char:EOLhyphen"/>ments, bardneſs of Heart, con<g ref="char:EOLhyphen"/>tempt of thy Word and Com<g ref="char:EOLhyphen"/>mandment; reſtore thy wonted though undeſerved Mercies; give Peace in my time, O Lord, and let the Goſpel of Truth flouriſh, even until thy Sons comming to Judgment: and that for his ſake, who is the Prince of Peace, and that ſhed his moſt pretious Blood to purchaſe our Peace.</hi>
+                  </p>
+                  <p n="5">
+                     <hi>V. O thou, that art the Author of Peace, and lover of Concord, Compoſe I beſeech thee, all un<g ref="char:EOLhyphen"/>happy differences, and diviſions
+<pb n="76" facs="tcp:32301:40"/>that are among us; take away from all Mens Hearts the Spirit of Diviſion and Contention, the Spirit of Blood Thirſtineſs and Revenge, the Spirit of Pride, Blindneſs of Heart. Vain Glory and Hypocriſie, of Envy, Hatred, Malice, and all <g ref="char:V">Ʋ</g>ncharitable<g ref="char:EOLhyphen"/>neſs; and give us the Spirit of Peace, <g ref="char:V">Ʋ</g>nity and Concord; the Spirit of Moderation, the Spirit of due Obedience, and above all the Spirit of thy Fear, that we may at length meet and live in the <g ref="char:V">Ʋ</g>nity of the Spirit, and in the Bond of Peace, and with one Mouth Praiſe thee, our God, and with one Heart, love one another</hi>
+                  </p>
+                  <p>
+                     <label type="rubric">Read <hi>Pſal.</hi> 69.88. 1 Leſſon. <hi>Iſa.</hi> 53. 2 Leſſon. 1 <hi>Pet.</hi> 2.</label>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div n="saturday" type="day">
+            <div n="morning" type="time">
+               <pb n="77" facs="tcp:32301:40"/>
+               <div type="meditations">
+                  <head>Saturday <hi>Mornings Medi<g ref="char:EOLhyphen"/>tations.</hi>
+                  </head>
+                  <p>LORD, I confeſs without thee my endeavours are in vain, and without thy bleſſing my hopes can never ſucceed, but I alſo know thou rewardeſt thoſe who Obey thee, and fail<g ref="char:EOLhyphen"/>eſt not to relieve with a gener<g ref="char:EOLhyphen"/>ous bounty, thoſe who depend on thee; O give me 1. Thy Grace to obſerve my part, and I'le not fear the performance of thine; thou calleſt to thy ſelf the Poor and Humble, to Eat and Drink at thy Holy Table; thoſe who faithfully live toge<g ref="char:EOLhyphen"/>ther in Unity; thou graciouſly inviteſt to thy Royal Feaſt: prefering them all to thy friendſhip here, that they may be partakers of thy Glory hear<g ref="char:EOLhyphen"/>after.</p>
+                  <pb n="78" facs="tcp:32301:41"/>
+                  <p n="2">II. MY Soul, if thou at any time looſe the preſence of thy God, thou wilt beſure to find him at his Holy Table, there ſeek him with Grace and per<g ref="char:EOLhyphen"/>ſeverance, ſeek him with Pray<g ref="char:EOLhyphen"/>ers, and Sighs, and Tears; and be ſure at laſt thou ſhalt find him with joy: He hides not himſelf, that we may not find him, but that we may ſeek him, and be hereafter more fearful to looſe him: Deſpair not, he again will ſhew himſelf, only go on and ſeek him ſtill with hope; and be ſure thou wilt meet him at his Heavenly Feaſt.</p>
+                  <p n="3">III. HAPPY are the Ears that hear thee ſpeak, O Bleſſed <hi>Jeſu</hi> 
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Happy are the Hearts that feel the Power of thy Word. O thy Holy One of God! For thou Commandeſt with Authority all Unclean Spi<g ref="char:EOLhyphen"/>rits, and they Obey thee. re<g ref="char:EOLhyphen"/>ſcue me, O Lord, from the Snares of Satans Temptations,
+<pb n="79" facs="tcp:32301:41"/>and Powerfully Chace away the Enemies which diſturb my Peace; that they Tear not my mind with diſtracting thoughts nor trouble my repoſe with impure fancies.</p>
+                  <p n="4">IV. SO ſweetly efficacious is thy Grace, O Lord, that im<g ref="char:EOLhyphen"/>mediately it draws all Souls unto thy Heavenly Banquet; ſo kindly Condeſcending is thy Clemency, that thou pre<g ref="char:EOLhyphen"/>ſently embraceſt them in thy Arms of Mercy, when they come unto thee, thy own bleſt Mouth, hath meekly ſpoke the mildeſt Leſſon to win us to thee; <hi>I will have Mercy, and not Sacrifice; for I came not to call the Righteous, but Sinners to Repentance;</hi> Lord, I conſeſs my ſins, I confeſs my need of thy Mercies: but my hope is great, that thou wilt abundant<g ref="char:EOLhyphen"/>ly Pardon me, whilſt I hear thee ſo graciouſly remember thy Ancient Promiſes, and ſo powerfully urge them in favour
+<pb n="80" facs="tcp:32301:42"/>of ſinners; quicken my Faith, O Lord, and make it Active, that I may receive thee with thankfulneſs, who ſo kindly calleſt me.</p>
+               </div>
+               <div type="prayer">
+                  <head>The PRAYER.</head>
+                  <p>
+                     <hi>OH Eternal, moſt Gracious, and Merciful Father, I am here come into thy Preſence, with Confidence, ſeeing that my Conſcience tells me, I have broke all thy Commandements, as I have ſinned in Thoughts, and Words, in Thoughts more than I can think, and in Words more than I am able to Expreſs; the number of them are ſo great, that I have ſcarce Room for any more; I am impure, but thou of purer Eyes than to behold iniquity.</hi>
+                  </p>
+                  <p n="2">
+                     <hi>II. B<g ref="char:V">Ʋ</g>T if thou ſhouldeſt en<g ref="char:EOLhyphen"/>ter into judgment with me, I were not able to ſtand before thee, I Confeſs there is but one way, to ſlie from thee, as an Angry God, which is to ſlie to thee, as a re<g ref="char:EOLhyphen"/>conciled
+<pb n="60" facs="tcp:32301:42"/>Father, reconciled in the Blood of thy Son Jeſus Chriſt, to fly from the ſtrict Bar of thy judg<g ref="char:EOLhyphen"/>ment, to thy tender Bowels of Compaſſion, not according to my Merits, but according to my ne<g ref="char:EOLhyphen"/>ceſſities, ſo I humbly beſeech thee Pardon all my ſins paſt, and ſtrengthen me againſt ſin, for the time to come.</hi>
+                  </p>
+                  <p n="3">
+                     <hi>III. TO this end, I beſeech thee Awaken my Dead Conſcience, confirm my judgment, enlighten my underſtanding, conform my Will, Reform my Life, Enflame my Zeal, Strengthen my Faith, and that from henceforth, I may live unto thee, and ſerve thee, Lord give me Repentance, not to be repented of, that hope which will not make me aſhamed, and that Peace of Conſcience which paſſeth all underſtanding: give me the World, but that World which paſſeth knowledge, give me Faith, but that Faith which is in Chriſt, and that Wiſdom which leads to underſtanding.</hi>
+                  </p>
+                  <pb n="91" facs="tcp:32301:43"/>
+                  <p n="4">
+                     <hi>IV. Lord prepare my Soul and Heart to meet thee, at thy Holy Yable, that I may feed my Soul with thy loving kindneſs, and not depart from thence without a Bleſ<g ref="char:EOLhyphen"/>ſing; give me Grace evermore to fear thee, and to preſerve a tender Sence of my Duty towards thee, and Conſcienciouſly Obey thee in all things, that ſo by the Virtue of his Sacrifice of himſelf, all my ſins may be Waſhed away in his Blood, and be remembred no more.</hi>
+                  </p>
+                  <p>
+                     <label>Read the <hi>Pſalms</hi> and Proper Leſſons appointed for the day.</label>
+                  </p>
+               </div>
+            </div>
+            <div n="evening" type="time">
+               <div type="meditations">
+                  <head>Saturday <hi>Evenings Medi<g ref="char:EOLhyphen"/>tations.</hi>
+                  </head>
+                  <p>BEHOLD me, O Lord, in this State of Miſery, and no hope left me, but in thy Mer<g ref="char:EOLhyphen"/>cy <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>here I muſt lie kept down
+<pb n="92" facs="tcp:32301:43"/>with my ſins, unleſs thy Cle<g ref="char:EOLhyphen"/>mency take pitty on me. En<g ref="char:EOLhyphen"/>lighten, O Lord, the Blindneſs of my underſtanding, and Straighten the Crookedneſs of my Will, and heal all the In<g ref="char:EOLhyphen"/>firmities of my weak Nature: O do thou throughly Cure me that I ſin no more, but imme<g ref="char:EOLhyphen"/>diately take up my Heart, which too long have Cleaved to this Earth, and bear it after thee, to walk from henceforth the ways of thy Command<g ref="char:EOLhyphen"/>ments.</p>
+                  <p n="2">II. WHEN thou art preſent with me, O thou Heavenly Spouſe, of my Soul! When thou art pleaſed to ſtay and dwell in my Heart, how ſtrange<g ref="char:EOLhyphen"/>ly doſt thou fill it with joy and ſweetneſs! Whatever happens, I cannot be ſad while thou art with me, nor pleaſant if thou leaveſt me: infuſe thy Holy Love into mine Heart, O Lord, and make me faithfully hold it faſt for ever; that I looſe
+<pb n="93" facs="tcp:32301:44"/>not my ſelf by neglecting thy Grace, but preſerve them both to Eternal Life.</p>
+                  <p n="3">III. BUT alas! How quick<g ref="char:EOLhyphen"/>ly am I weary of praying to my God; how apt to give over my expectance from him! Who yet, as ſoon as he ſees my neceſſities, begins my re<g ref="char:EOLhyphen"/>lief, and leaves nor off till he has perfectly finiſhed it: Let me not fear, but believe and Obey, and my Soul ſhall be ſafe; why am I ſo impatient when any trouble befalls me, and why do I diſparage the extra<g ref="char:EOLhyphen"/>ordinary proceedings of God? though I am Dead in ſin and ſorrow he can revive me, and give me ſtrength to walk in the ways of Life; he will give me, that Bread which came down from Heaven, yea his own ſelf, which he gave for the Life of the World.</p>
+                  <p n="4">IV. BUT 'tis not for Fleſh and Blood to follow thee, O thou great Exemplar of Sub<g ref="char:EOLhyphen"/>lime
+<pb n="95" facs="tcp:32301:44"/>perfection! 'Tis not for Fleſh and Blood to perform the Excellencies of an Evange<g ref="char:EOLhyphen"/>lical Life; but to the Almighty Grace of God, nothing is impoſ<g ref="char:EOLhyphen"/>ſible; every exenſe is welcome to me, every little difficulty is enough to divert me; I am afraid of the hardſhip of Pover<g ref="char:EOLhyphen"/>ty, I am in Love with my Kin<g ref="char:EOLhyphen"/>dred and Acquaintance; and never can Nature alone over<g ref="char:EOLhyphen"/>come theſe difficulties; but thou, O Lord, canſt find a remedy, and compoſe in me ſuch a frame of Spirit, whereby I may Vanquiſh all thoſe thoughts which keep me from thy Glorious preſence.</p>
+               </div>
+               <div type="prayer">
+                  <head>The PRAYER.</head>
+                  <p>
+                     <hi>OEternal Lord God, Infinite in thy Greatneſs, Incom<g ref="char:EOLhyphen"/>prehenſible in thy Glory, whoſe Pure and Juſt Eves cannot be<g ref="char:EOLhyphen"/>hold either Sin or Sinners with the leaſt look of approbation; be not offended with me thy unwor<g ref="char:EOLhyphen"/>thy
+<pb n="96" facs="tcp:32301:45"/>Servant, O Lord who art a Merciful and Reconciled Father to all ſuch ſinners as ſincerely de<g ref="char:EOLhyphen"/>ſire, and endeavour to Repent and believe; thy providence hath pre<g ref="char:EOLhyphen"/>ſerved me unto this moment, to offer unto thy Majeſty my Evening Sacrifice, beſeeching thee, to make me a fit partaker at thy Holy Table.</hi>
+                  </p>
+                  <p n="2">
+                     <hi>II. I have been a foul and flat Idolator, erecting the Idols of my own profit and pleaſure, in the Chappel and Cloſet of my Heart, and then, and there have fallen down upon the bended Knees of my Soul, and worſhiped them, by regarding my luſt more than the fulfiling thy Will in thy Word; that Sacred Name of thine, where<g ref="char:EOLhyphen"/>by I hope to be Saved, I have taken in vain, I have done that on thy day, the</hi> Lord's Day, <hi>which I can juſtifie or a Vouch on no day; I have not given that Reverence and Reſpect to my Superiours; I have broken all thy Commandements of the Second Table in my Demeanour
+<pb n="97" facs="tcp:32301:45"/>towards my Neighbour, and in my Deportment to my own Soul and Body.</hi>
+                  </p>
+                  <p n="3">
+                     <hi>III. O Lord, I have been aſhamed to confeſs my ſins in the preſence of the World, but I have been Vile, and bold, and no whit aſhamed to commit them, when I knew full well, that thee, the great God, of Heaven and Earth, did at that inſtant behold me, Oh! lend me thy Spirit effectually, to admire thy Patience and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ong<g ref="char:EOLhyphen"/>Suffering towards me, who per<g ref="char:EOLhyphen"/>mits ſuch a Prefane and Preſump<g ref="char:EOLhyphen"/>tuous ſinner at this hour of my Life ſtill to remain from everlaſt<g ref="char:EOLhyphen"/>ing Burnings.</hi>
+                  </p>
+                  <p n="4">
+                     <hi>IV. S<g ref="char:V">Ʋ</g>RELY, Lord, there are many in that Pit of Perdition, whoſe ſins againſt thee, were ne<g ref="char:EOLhyphen"/>ver Aggavated with thoſe high Circumſtances; O Lord, I have no Varity of Reaſons to move thee to Mercy, I have no Exchange of Motives to perſwade thee to Pitty, but only the ſame, over and over again, for thy own ſake, for thy
+<pb n="98" facs="tcp:32301:46"/>Names ſake, for thy Mercies ſake, for thy Son, and my Saviour</hi> Chriſt Jeſus <hi>his ſake, forgive my<g ref="char:EOLhyphen"/>Sins, for they are great; waſh the Guilt and Filth of my ſins away in his Blood; and Lord for the time to come, give me Grace to ſpend the remainder of my days to thy Glory: In whoſe moſt pow<g ref="char:EOLhyphen"/>erful Name. I ſue unto thee, for all that is comprehended in this my weeks preparation (or what<g ref="char:EOLhyphen"/>ever elſe for want of Memory I have Omitted) in thy moſt perfect form of Prayer; ſayong,</hi> Our Father, <hi>&amp;c.</hi>
+                  </p>
+                  <p>
+                     <label type="rubric">Read the <hi>Pſalms</hi> and Leſſons for the Day.</label>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div n="sunday" type="day">
+            <div n="morning" type="time">
+               <div type="meditations">
+                  <head>Sunday <hi>Mornings Medi<g ref="char:EOLhyphen"/>tations at Home.</hi>
+                  </head>
+                  <p>WELCOME Bleſt day unto my Heart, but far more Welcome unto my
+<pb n="99" facs="tcp:32301:46"/>Soul; I have now put off the Old Man with his Affections and Luſts, and I muſt now put on my Wedding Garment, even the Lord Jeſus Chriſt, that I may be made wholly conform<g ref="char:EOLhyphen"/>able to him, in the Image of his mind: that my Soul may be Clothed with his Righteouſ<g ref="char:EOLhyphen"/>neſs, and all its faculties pro<g ref="char:EOLhyphen"/>portioned and veſted according to the perfect Pattern of Chriſts Life.</p>
+                  <p n="2">II. THIS is the day of the Holy Feaſt, therefore, my Soul, lay aſide all Cares and Imper<g ref="char:EOLhyphen"/>tinences of the World, remem<g ref="char:EOLhyphen"/>ber this day is appointed for thee, a day of Traffique and Entercourſe with Heaven; O Lord, therefore will I magnifie thy Holy Name, and evermore adore thy goodneſs; O What a happy opportunity my God haſt thou given me, of recei<g ref="char:EOLhyphen"/>ving the greateſt favour, I can receive in this World? even the Body and Blood, of my deareſt Savour.</p>
+                  <pb n="100" facs="tcp:32301:47"/>
+                  <p n="3">III. O Lamb, of God, thou haſt uſed many Arts to ſave me, when I was loſt, thou haſt given thy Life to Redeem me when I was a Slave to Sin and <hi>Satan,</hi> and thy Holy Spirit to Sanctifie me; O now come Lord <hi>Jeſus,</hi> come quickly: My Heart is deſirons of thy Preſence; Thirſty for thy Grace, and I am earneſt to entertain thee, not as a Gueſt but as an Inhabitant to dwell with me forever.</p>
+                  <p n="4">IV. LORD, the place thou art Invited to, is full of Paſ<g ref="char:EOLhyphen"/>ſion, and Prejudice, Diſobedi<g ref="char:EOLhyphen"/>ent, Luſtful, and Intemperate, and full of ſad Remembrances that I have often provoked to Jealouſie and to Anger thee my God, my deareſt Saviour, him that died for me, him that Suffer<g ref="char:EOLhyphen"/>ed Torments for me, that is Infi<g ref="char:EOLhyphen"/>nitely good to me, and infinitely good &amp; perfect in himſelf; Lord I am as ſure thou didſt the great Work of Redemption for me, &amp;
+<pb n="101" facs="tcp:32301:47"/>all Mankind, as that I am Alive: This is my Hope, the Strength of my Spirit, my Joy and my Confidence: Here I will dwell, for I have a delight therein: Here I will live, and here I de<g ref="char:EOLhyphen"/>ſire to Die.</p>
+                  <p n="5">V. LORD, whither ſhall I go but to thee? Thou haſt the Words of Eternal Life: as the Hart deſireth the Wa<g ref="char:EOLhyphen"/>ter Brooks. So longeth my Soul after thee, O God, my Soul is a Thirſt for God, yea even for the Living God, when ſhall I come and appear before the Preſence of God? O ſend out thy Light, and thy Truth, and bring me unto thy Holy Hill, and to thy dwelling: and that I may go unto the Altar of God, even unto the God of my Joy and Gladneſs: and with my Heart will I give thanks to thee, O God, my God.</p>
+               </div>
+               <div type="prayer">
+                  <pb n="102" facs="tcp:32301:48"/>
+                  <head>A Prayer at Home, be<g ref="char:EOLhyphen"/>fore the Sacrament.</head>
+                  <p>
+                     <hi>OBleſſed Jeſu, 'tis thy Bleſ<g ref="char:EOLhyphen"/>ſed Body, that my Soul longs for, and to be ſatisfied with thy Pretious Blood, for its Purificati<g ref="char:EOLhyphen"/>on and Nouriſhment; Vouchſafe Holy Jeſus, to enter this Day in<g ref="char:EOLhyphen"/>to the Houſe of thy Servant: that with Holy</hi> Zacheus <hi>I may within receive from thee, that joyful Be<g ref="char:EOLhyphen"/>nediction. this day is Salvation come to thine Houſe.</hi>
+                  </p>
+                  <p n="2">
+                     <hi>II. THY Body, O Bleſſed Jeſu, is my Food, and thy Righteouſneſs is my Robe, thou art both the Prieſt and Sacrifice, the Maſter of the Feaſt, and the Feaſt it ſelf, my Souls Phyſitian, the Light of my Eyes, and the Puriſier of my Stains: O Enter now into my Heart, and caſt out from thence all Impurities, even all the re<g ref="char:EOLhyphen"/>mains of the Old Man.</hi>
+                  </p>
+                  <pb n="103" facs="tcp:32301:48"/>
+                  <p n="3">
+                     <hi>III. AND grant I may partake of this Holy Sacrament with much Reverence, Holy Reliſh, and great Effect, receiving thence the Communication of thy Holy Body and Blood, for the Eſtabliſhment of an unreprovable Faith, of an unfained Love, for the fulneſs of Wiſdom, for the healing my Soul, and preſervation of my Body, for the taking out the Sting of tempo<g ref="char:EOLhyphen"/>ral Death, and for the Aſſurance of a Holy Reſurrection, for the Ejection of all Evil from within me, and the fulfiling all thy Righ<g ref="char:EOLhyphen"/>teous Commandements, and to procure for me a Mercy, and a fair Reception at the Day of Judgment.</hi>
+                  </p>
+                  <p n="4">
+                     <hi>IV. O God, the Bread of Hea<g ref="char:EOLhyphen"/>ven, and Life of the World; I have ſinned againſt Heaven, and in thy Sight, and am not worthy to be made partaker of thy moſt Holy Myſteries: But Vouchſafe as a Merciful God, to make me worthy, by thy Grace, that I may not receive thy Holy Body and
+<pb n="104" facs="tcp:32301:49"/>Pretious Blood to my Condemnati<g ref="char:EOLhyphen"/>on, but unto the Remiſſion of my ſins, and Everlaſting Life.</hi> Amen.</p>
+               </div>
+               <div type="intercessions">
+                  <head>Interceſſions.</head>
+                  <p>O God have Mercy upon poor Mankind, enligh<g ref="char:EOLhyphen"/>ten all that ſit in Darkneſs, and in the Shadow of Death, reveal thy Son, and his ſaving Goſpel to thoſe <hi>Aſiaticks, Affricans,</hi> and <hi>Americans,</hi> that never heard of a Crucified Jeſus, add the fulneſs of the <hi>Gentiles,</hi> to the Recollection of the <hi>Jewes,</hi> that there may at length be one Sheepſold, under that one good and great Sheepherd Chriſt Jeſus.</p>
+                  <p n="2">II. BE merciful to this Church, in which I am a Mem<g ref="char:EOLhyphen"/>ber, and Cauſe thy Face ever<g ref="char:EOLhyphen"/>more to Shine upon it; Bleſs thoſe whom thou haſt Anoin<g ref="char:EOLhyphen"/>ted
+<pb n="105" facs="tcp:32301:49"/>over us, our Soveraign Lord and Lady, King <hi>William</hi> and Queen <hi>Mary,</hi> grant that their People may Obey them, and they may Obey thee, and do all things to thy Honour and Glory.</p>
+                  <p n="3">III. BLESS, <hi>Katherine</hi> the Queen <hi>Dowager,</hi> her Royal Highneſs the Prineeſs <hi>Ann</hi> of <hi>Denmark,</hi> with all the reſt of the Royal Family, endue them with Heavenly Graces, make them happy Inſtruments of thy Glory here, and partakers of thy Heavenly Kingdom here<g ref="char:EOLhyphen"/>after.</p>
+                  <p n="4">IV. BLESS the Paſtors of thy Church, the Biſhops and Clergy, grant that by their ſincere Preaching, and Aſſidu<g ref="char:EOLhyphen"/>ous Prayers, and Miniſtries, they may Glorifie thee, the great lover of Souls: give un<g ref="char:EOLhyphen"/>to the Miniſters of Juſtice, the Spirit of Government, and Zeal, Courage, and Prudence to the Nobility, Wiſdom, Va<g ref="char:EOLhyphen"/>lour,
+<pb n="106" facs="tcp:32301:50"/>and Religious Magnani<g ref="char:EOLhyphen"/>mity; Succour all in Afflicti<g ref="char:EOLhyphen"/>on, help them to Right that ſuffer Wrong, be with thoſe that are in Priſon, and preſerve thou thoſe that are appointed to Die.</p>
+                  <p n="5">V. BLESS my Relations, (<hi>Here Name them</hi>) Aſſiſt them in their Wants and Neceſſities, keep them in thy Fear and Fa<g ref="char:EOLhyphen"/>vour unto their Lives end; for<g ref="char:EOLhyphen"/>give my Enemies, Perſecutors and Slanderers, and turn their Hearts: Bleſs all thoſe who do accompany me this day at thine Altar, and for all others who meet in thy Name, and Com<g ref="char:EOLhyphen"/>municate in Remote Parts; grant that through this Blood of <hi>Jeſus,</hi> we may all be Clean<g ref="char:EOLunhyphen"/>ſed from our Sins, and Purged from all our Iniquities.</p>
+                  <p n="6">VI. O leave us not, as we have deſerved to be left, wrapt up in our own Confulions, he thou more merciful to us than we have been unto ourſelves;
+<pb n="107" facs="tcp:32301:50"/>Supply whatſoever is wanting in the Government; Eſtabliſh what remains; Diſſipate and Scatter Scandals; Stop and Prevent all riſing and growing Hereſies; make us all ſo far of one Heart and one Mind; that we may joyntly ſet our ſelves to the rooting up of all Atheiſm, Prophaneneſs, Super<g ref="char:EOLhyphen"/>ſtition, Faction, Hereſie; any thing which exalts it ſelf againſt thy true and ſincere Worſhip.</p>
+                  <p n="7">VII. GIVE to the whole Land fair Seaſons of the Year, good Government, Health and Plenty; an excellent Religion undivided and undiſturbed; frequent Celebration of this thy Holy Ordinance; through Chriſt our Lord.</p>
+                  <p n="8">VIII. AND now lift up your Head, O ye Gate of my Soul; and be ye lifted up O ye Ever<g ref="char:EOLhyphen"/>laſting Door of my Heart, that the King of Glory may come in, that he may come in at this time; and take Poſſeſſion
+<pb n="108" facs="tcp:32301:51"/>of me, and Dwell and Reign in me for ever. Even ſo O Lord, for the ſake of the Son of thy Love; in whom only I truſt to be accepted; and in whoſe Name and Words I call upon thee; <hi>Our Father,</hi> &amp;c.</p>
+               </div>
+               <div type="ejaculations">
+                  <p>
+                     <label>When you go forth of your Cham<g ref="char:EOLhyphen"/>ber or Cloſet.</label>
+                  </p>
+                  <p>I Will go into his Tabernacle, and fall low on my Knees before his Foot-Stool; the Lord preſerve me in my going out and my coming in; from this time forth and for evermore.</p>
+                  <p>
+                     <label>When you enter the Church; which ought to be ſometime before the Service begins.</label>
+                  </p>
+                  <p>O How Aimable are thy Dwellings thou Lord of <hi>Hoſt.</hi> I will come into thy Ta<g ref="char:EOLhyphen"/>bernacle and fall low on my Knees before thy Foot-Stool: and will wait for thy loving
+<pb n="109" facs="tcp:32301:51"/>kindneſs, O God, in the midſt of thy Temple; thy Teſtimo<g ref="char:EOLhyphen"/>nies O Lord are very ſure, and Holineſs becometh thy Houſe for ever.</p>
+                  <p>
+                     <label>When you caſt your Eye on the <hi>Font</hi> and <hi>Pulpet.</hi>
+                     </label>
+                  </p>
+                  <p>Then recal to mind that So<g ref="char:EOLhyphen"/>lemn Vow, you openly took at your Initiation into the Church, to forſake the <hi>Devil</hi> and all his Works, the Pomps and Vanities of this Wicked World; and all the ſinful Luſts of the Fleſh, <hi>&amp;c.</hi> and let the other put thee in mind, the many good Sermons thou haſt heard from thence, and the few thou haſt practiſed.</p>
+                  <p>
+                     <label type="rubric">Being ſeated, turn to the <hi>Pſalms</hi> and Leſſons, Epiſtle and Goſpel for the Day, that you may have them ready; if there be any leaſure time before Divine Service begins, fall on your Knees and ſay.</label>
+                  </p>
+                  <pb n="110" facs="tcp:32301:52"/>
+                  <p>Holy, holy, holy, Lord God Almighty, which was; and is, and is to come, fit us all for thy Service.</p>
+                  <p>Good Lord Pardon all here, that prepares their Heart to ſeek thee.</p>
+                  <p>Merciful Lord, Graciouſly accept us all, that come hither to preſent our ſelves our Souls and Bodies unto thee, for Je<g ref="char:EOLhyphen"/>ſus Chriſt's ſake, that Vouch<g ref="char:EOLhyphen"/>ſafed to preſent himſelf Bodily in the Temple for us, in great Love and Humility.</p>
+                  <p>
+                     <label type="rubric">Then joyn with the Prayers of the Chuch, and be Attentive to the Sermon. When Sermon is ended, fall on your Knees and ſay.</label>
+                  </p>
+                  <p>O Lord, by reaſon of my ſins, I am unworthy to appear in thy preſence, to offer up any Sacrifice unto thee, grant Merciful Lord, I beſeech thee, both to me and all thy faithful
+<pb n="111" facs="tcp:32301:52"/>People, Pardon, and Peace, that being Cleanſed from all our ſins, we may ſerve thee, with a quiet mind through Je<g ref="char:EOLhyphen"/>ſus Chriſt our Lord, <hi>Amen.</hi>
+                  </p>
+                  <p>
+                     <label>When you go up to Com<g ref="char:EOLhyphen"/>municate.</label>
+                  </p>
+                  <p>I will waſh my Hands in In<g ref="char:EOLhyphen"/>nocency, and ſo will I go to thine Altar.</p>
+                  <p>O ſend forth thy Light, and thy Truth, that they may lead me, and bring me to thy Holy Hill, and to thy dwelling.</p>
+                  <p>
+                     <label>When you Kneel before the Altar.</label>
+                  </p>
+                  <p>Thou art Worthy, O Lord, to receive Bleſſing, Honour and Power, but I am not wor<g ref="char:EOLhyphen"/>thy thou ſhouldeſt come under my Roof, or that thy praiſe ſhould come within my pollu<g ref="char:EOLhyphen"/>ted Lips.</p>
+                  <pb n="112" facs="tcp:32301:53"/>
+                  <p>But Bleſſed Lord, thou Vouchſafedſt to enter the Houſe of a <hi>Publican,</hi> and to receive a Kiſs of an unclean ſinner; O receive ſuch a ſinner as I am, diſdain not to enter under my Roof, deſpiſe not my humble Addreſſes and Supplications.</p>
+                  <p>O let thy Sacrifice, be an ex<g ref="char:EOLhyphen"/>piation for all my ſins, and now forever Seal thy Pardon by thy precious Blood for all my offences, and receive me Graciouſly.</p>
+                  <p>
+                     <label>When you caſt in your Offering.</label>
+                  </p>
+                  <p>O Bleſſed <hi>Jeſu,</hi> who didſt accept the Poor Widdows two Mites, which ſhe caſt into the Treaſury; I beſeech thee, be graciouſly pleaſed to accept this Poor Offering from me the unworthieſt of thy Servants.</p>
+                  <p>
+                     <label type="rubric">
+                        <hi>Then dilligently harken to the Exhortation, and ſeeing the Table ſpread, and the Elements of Bread and Wine ſet thereon,
+<pb n="113" facs="tcp:32301:53"/>Meditate with thy ſelf after this manner.</hi>
+                     </label>
+                  </p>
+               </div>
+               <div type="meditations">
+                  <head>Meditations.</head>
+                  <p>THIS O my Soul, is the Ta<g ref="char:EOLhyphen"/>ble of the King of Kings, and the Lord of Heaven and Earth; it is a Feaſt, where himſelf is preſent, and all his Holy Angels, thoſe Glorious Spi<g ref="char:EOLhyphen"/>rits do behold, love, and won<g ref="char:EOLhyphen"/>der that the Son of God ſhould become Food to the Souls of his Servants; be aſtoniſhed! O my Soul at this great Myſtery, that he who is unchangeable, ſhould be broken in pieces, and enter into the Body to ſup<g ref="char:EOLhyphen"/>port the Spirit, and yet at the ſame time remain in Heaven, while he Deſcends to thee upon Earth; that he ſhould Die for thee, and then give himſelf to thee for ever to Redeem thee from ſin, and miſery; that he ſhould become Man, and make
+<pb n="114" facs="tcp:32301:54"/>thee, a partaker of the Divine Nature:</p>
+                  <p n="2">
+                     <hi>II. O Lord I am unworthy to come to thy Table, but I come with as Thirſty a deſire as the Chaced Hart which pants after the Water Brooks, and with as Hungry an Ap<g ref="char:EOLhyphen"/>petite as a Poor half ſtarved Crea<g ref="char:EOLhyphen"/>ture to a full Table O Lord I am not worthy of the leaſt Crum that falls from the Table of thy Ordinary Providence, but I come in Obedi<g ref="char:EOLhyphen"/>ence, to thy Command, O receive me as a poor Sinner, laden with ſin, and let thy pretious Body and Blood, which I am now ready to participate off, Cleanſe me from all ſin and wickedneſs.</hi>
+                  </p>
+                  <p>
+                     <label>When the Miniſter ſays, <hi>draw near with Faith, and take this Holy Sacrament.</hi>
+                     </label>
+                  </p>
+                  <p>
+                     <label>Lift up thy Heart in this Ejacu<g ref="char:EOLhyphen"/>lation.</label>
+                  </p>
+                  <p>
+                     <hi>O Lord, I am unworthy of this Invitation to thy Holy Table; but
+<pb n="115" facs="tcp:32301:54"/>a ſinner muſt not refuſe thy call, therefore in all Obedience and Humility I come.</hi>
+                  </p>
+                  <p>
+                     <label type="rubric">Then joyn Humbly with the Miniſter in the Confeſſion.</label>
+                  </p>
+                  <p>
+                     <label>After the Abſolution is Pro<g ref="char:EOLhyphen"/>nounced, uſe this Ejaculation.</label>
+                  </p>
+                  <p>
+                     <hi>O Lord, I beſeech thee, grant me a true Repentance, and a lively Faith, that I may receive all the Benefits of thy Death and Paſſion, even the Confirming and Strengthning me in all goodneſs to my Lives end.</hi>
+                  </p>
+                  <p>
+                     <label>When that Comfortable ſaying of St. <hi>Paul</hi> is repeated, <hi>that</hi> Chriſt <hi>came into the World to ſave Sinners.</hi>
+                     </label>
+                  </p>
+                  <p>
+                     <label>Say with all Humility.</label>
+                  </p>
+                  <p>
+                     <hi>O Lord, I am the greateſt and chiefeſt of ſinners, but thou alone are the Propitiation for my ſins.</hi>
+                  </p>
+                  <pb n="116" facs="tcp:32301:55"/>
+                  <p>
+                     <label>After the Preface is ended, <hi>Therefore with Angels, and Arch-Angels,</hi> &amp;c. Uſe this Ejaculation.</label>
+                  </p>
+                  <p>
+                     <hi>I will evermore praiſe thy Name, O thou that dwelleſt in the Heavens from the riſing up of the</hi> Sun, <hi>until the going down of the ſame, and will Laud and Magnifie thy Holy Name, now, and forever.</hi>
+                  </p>
+                  <p>
+                     <label>When the Prayer of Conſecra<g ref="char:EOLhyphen"/>tion is ſaid, and the Mini<g ref="char:EOLhyphen"/>ſter reads the Words of Chriſts Inſtitution, and you ſee him Order the <hi>Bread</hi> and the <hi>Wine</hi> repeat this.</label>
+                  </p>
+                  <p>
+                     <hi>O Lord, thou haſt provided two diſtinct Pledges of thy Love, to us Poor ſinners, who had been ut<g ref="char:EOLhyphen"/>terly loſt, had not thy Almighty goodneſs found out a Remedy to Save us.</hi>
+                  </p>
+                  <pb n="117" facs="tcp:32301:55"/>
+                  <p>
+                     <label>When thou ſeeſt the <hi>Bread</hi> bro<g ref="char:EOLhyphen"/>ken and the <hi>Wine</hi> poured out. Say.</label>
+                  </p>
+                  <p>
+                     <hi>Thus was thy Holy Body broken for my ſins upon the Tree of ſhame, and thy Side was Pierced with a Spear, which guſhed forth Blood; thus waſt thou Wounded for my Tranſgreſſions, and Bruiſed for mine iniquities, but by thy Stripes I am healed.</hi>
+                  </p>
+                  <p>
+                     <label>When the Miniſter Receives in both kinds.</label>
+                  </p>
+                  <p>
+                     <hi>O Lord, Purifie and Cleanſe my Heart by thy Holy and Bleſſed Spirit, and prepare my Soul to Receive thee, the great God of Heaven and Earth: Come Holy Jeſus, and take Poſſeſſion of my Soul, Purifie it with thy pretious Blood, and dwell therein for ever.</hi> Amen.</p>
+                  <p>
+                     <label>Immediately before Receiving.</label>
+                  </p>
+                  <p>Grant me, O Bleſſed Lord,
+<pb n="118" facs="tcp:32301:56"/>ſo to Eat the Fleſh of thy dear Son <hi>Chriſt Jeſus,</hi> and to Drink his Blood, that my ſinful Body may be made Clean by his Bo<g ref="char:EOLhyphen"/>dy, and my Polluted Soul waſh<g ref="char:EOLhyphen"/>ed through his moſt pre<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ious Blood.</p>
+                  <p n="2">II. O Lord Purifie my Heart and Mind. Strengthen my Faith, and encreaſe my Charity; for though I am weak, though I am unworthy, though I am un<g ref="char:EOLhyphen"/>profitable, yet I am thy Ser<g ref="char:EOLhyphen"/>vant: Lord, hear my Prayers, and let my Cry come unto thee.</p>
+                  <p n="3">III. O Lord thou haſt ſaid, that he that Eateth thy Fleſh, and Drinketh thy Blood, hath Eternal Life.</p>
+                  <p>Behold the Servant of the Lord, be it unto me, according to thy Word.</p>
+                  <p>
+                     <label>When the Miniſter preſents thee the Holy Bread, ſay ſoftly after him.</label>
+                  </p>
+                  <p>The Body of our Lord <hi>Jeſus
+<pb n="119" facs="tcp:32301:56"/>Chriſt</hi> which was given for me, preſerve my Body and Soul unto everlaſting Life.</p>
+                  <p>
+                     <label type="rubric">Here take the <hi>Bread</hi> with Reve<g ref="char:EOLhyphen"/>rance, and proceede.</label>
+                  </p>
+                  <p>I take and Eat this in remem<g ref="char:EOLhyphen"/>brance, that <hi>Chriſt</hi> Died for me, and will Feed on him in my Heart, with Faith and Thankſ<g ref="char:EOLhyphen"/>giving.</p>
+                  <p>
+                     <label>When you Eat the <hi>Bread,</hi> ſay.</label>
+                  </p>
+                  <p>By thy Crucified Body, De<g ref="char:EOLhyphen"/>liver me I humbly beſeech thee from this Body of Sin and Death.</p>
+                  <p>
+                     <label>After the <hi>Bread.</hi>
+                     </label>
+                  </p>
+                  <p>O Bleſſed <hi>Jeſu,</hi> this Holy <hi>Bread,</hi> which I thy moſt un<g ref="char:EOLhyphen"/>worthy Servant, have now Re<g ref="char:EOLhyphen"/>ceived, is that <hi>Bread</hi> which came down from Heaven, and giveth Life unto the World: O that I may now feel its Virtue,
+<pb n="120" facs="tcp:32301:57"/>and Efficacy, in Elevating up my Soul to Heaven, and there to have my Converſation fixt, whilſt I remain on this ſordid Earth, that when I ſhall be taken from hence, I may have my Conſummation and Bliſs, in thy Celeſtial Man<g ref="char:EOLhyphen"/>ſions, there to behold thy Face in Glory, who art now the Food of my Soul in Grace; O Lord, my God, and my Redeemer. <hi>Amen.</hi>
+                  </p>
+                  <p>
+                     <label>Before Receiving the Cup.</label>
+                  </p>
+                  <p>What reward ſhall I give un<g ref="char:EOLhyphen"/>to the Lord; for all the bene<g ref="char:EOLhyphen"/>fits he hath done unto me? I will take the Cup of Salvation, and call upon the Name of the Lord; I will pay my Vows now in the Preſence of all his Peo<g ref="char:EOLhyphen"/>ple.</p>
+                  <p>
+                     <label>When you receive the Cup of Bleſ<g ref="char:EOLhyphen"/>ſing from the Miniſter ſay with all humility after him.</label>
+                  </p>
+                  <pb n="121" facs="tcp:32301:57"/>
+                  <p>The Blood of our Lord <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> which was ſhed for me, preſerve my Body and Soul unto everlaſting life.</p>
+                  <p>
+                     <label type="rubric">Here take the Cup with Reve<g ref="char:EOLhyphen"/>rence and proceed.</label>
+                  </p>
+                  <p>I Drink this in Remem<g ref="char:EOLhyphen"/>brance, that Chriſts Blood was ſhed for me, and am thankful.</p>
+                  <p>
+                     <label>After the Cup.</label>
+                  </p>
+                  <p>O let this moſt pretious Blood of thine Purge away the Filthineſs of my Corrupt Heart, and Purifie the Droſs of my Guilty Conſcience, from all Luke-warm, and Dead Works, to ſerve thee, the living God, in Holineſs and Righteouſneſs, all the days of my life.</p>
+                  <p>
+                     <label type="rubric">Then Meditate.</label>
+                  </p>
+                  <p>O Lord may this Holy and Bleſſed Sacrament, of thy moſt
+<pb n="122" facs="tcp:32301:58"/>pretious Body and Blood, which I (though much unworthy, by reaſon of my manifold ſins) have now received, Seal unto my Soul, both Pardon and Peace, and that now being made whole, I may ſin no more.</p>
+                  <p n="2">
+                     <hi>II. O Lord, moſt holy, I do verily believe, thy Body was Crucified, and thy Hands and Feet Bored through, and that thy Blood was ſhed out of thy Body, and a Spear run into thy Bleſſed Side; as really as I have Recei<g ref="char:EOLhyphen"/>ved this Bread, and this Wine ſeparately; for the perfect Remiſ<g ref="char:EOLhyphen"/>ſion of all my ſins, and I believe, that in the Receiving this Bread and Wine, I have ſpiritually Re<g ref="char:EOLhyphen"/>ceived thy Body and Blood, where<g ref="char:EOLhyphen"/>by my ſins are wholly waſhed away, and my ſinful Soul refreſh<g ref="char:EOLhyphen"/>ed and Purified: O Lord, this</hi> I <hi>believe, O help my unbelief.</hi>
+                  </p>
+                  <p n="3">
+                     <hi>III. LORD, now letteſt tho<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> thy Servant depart in Peace ac<g ref="char:EOLhyphen"/>cording to the Word.</hi>
+                  </p>
+                  <pb n="123" facs="tcp:32301:58"/>
+                  <p>
+                     <hi>For mine Eyes have ſeen thy Salvation, which thou haſt pre<g ref="char:EOLhyphen"/>pared before the Face of all Peo<g ref="char:EOLhyphen"/>ple.</hi>
+                  </p>
+                  <p>
+                     <hi>To be a Light to Lighten the</hi> Gentiles, <hi>and the Glory of thy People</hi> Iſrael.</p>
+                  <p>Glory be to the Father, <hi>&amp;c.</hi>
+                  </p>
+                  <p>As it was in the begining, <hi>&amp;c.</hi>
+                  </p>
+                  <p>
+                     <label>Meditations whilſt others <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re a Communicating.</label>
+                  </p>
+                  <p>
+                     <hi>Bleſſed are they that dwell in thy Houſe, and are fed, though it be with the Crums that fall from thy Table.</hi>
+                  </p>
+                  <p>
+                     <hi>Happy are thoſe Servants; whom when their Lord cometh he ſhall find ſo doing.</hi>
+                  </p>
+                  <p>
+                     <hi>Behold, thou art whole, ſin no more, leaſt a worſt thing happen unto thee!</hi>
+                  </p>
+                  <p>
+                     <hi>As you have therefore received Chriſt Jeſus the Lord, ſo walk ye in him,</hi> Col. 2.6.</p>
+                  <p>
+                     <hi>Bleſſed be the Holy and <g ref="char:V">Ʋ</g>ndi<g ref="char:EOLhyphen"/>vided</hi> Trinity, <hi>now, and for ever more.</hi> Amen.</p>
+                  <pb n="124" facs="tcp:32301:59"/>
+                  <p>When thou art going Home, and ſeeſt an Object of Cha<g ref="char:EOLhyphen"/>rity, remember <hi>Pſal.</hi> 41.1.</p>
+                  <q>
+                     <p>
+                        <hi>Bleſſed is the Man that provid<g ref="char:EOLhyphen"/>eth for the Sick and needy, the Lord ſhall deliver him in the time of Trouble.</hi>
+                     </p>
+                  </q>
+               </div>
+            </div>
+            <div n="evening" type="time">
+               <div type="meditations">
+                  <head>Sunday <hi>Evenings Medi<g ref="char:EOLhyphen"/>tations at Home, after Receiving the Holy Sa<g ref="char:EOLhyphen"/>crament.</hi>
+                  </head>
+                  <p>O Lord, when ever I enter thy Holy Temple, let me leave behind me my Bargains and Buſineſs, and carry no<g ref="char:EOLhyphen"/>thing thither but Adoration for thy Majeſty, and Prayers for my neceſſities: thou who didſt open the Mouths of little Chil<g ref="char:EOLhyphen"/>dren to praiſe thee; enable the weakneſs of me thy Servant to Obey thee: Lord I am thy Temple, and ſhould be Conſe<g ref="char:EOLhyphen"/>crated
+<pb n="125" facs="tcp:32301:59"/>intirely to thy Service: Enter O Gracious <hi>Jeſu!</hi> into my Heart, and throughly purge me from all impieties.</p>
+                  <p n="2">II. GOOD God! How ten<g ref="char:EOLhyphen"/>derly doſt thou Conſult to pre<g ref="char:EOLhyphen"/>ſerve us Wretches! How kind<g ref="char:EOLhyphen"/>ly reſolve to ſend even thine own, thine only, thy Beloved Son to Redeem us? This is our Lord's doing, and 'tis marvel<g ref="char:EOLhyphen"/>ous in our Eyes. But, O! How did our graceleſs World entertain him then? and how does it now? Yet ſtill he con<g ref="char:EOLhyphen"/>tinues his Correſpondence with us, and daily comes to meet us on his Holy Altars; he there Feaſts our Souls, with his Bo<g ref="char:EOLhyphen"/>dy and Blood, and Chears our Hearts with his Holy Spirit.</p>
+                  <p n="3">III. O the indulgent Provi<g ref="char:EOLhyphen"/>dence of our God! How ma<g ref="char:EOLhyphen"/>ny ways has he contrived to ſave us! How many Meſſen<g ref="char:EOLhyphen"/>gers has he ſent to inſtruct our Ignorance! How many Embaſ<g ref="char:EOLhyphen"/>ſador, to reclaim us to our Du<g ref="char:EOLhyphen"/>ty!
+<pb n="126" facs="tcp:32301:60"/>What could an inſinite Power and Goodneſs do, that he has not done! What could the Vileſt Ingratitude do, that we have not done! often he ſends a Bleſſing to invite our Love, and we abuſe it into Pride and Wantonneſs; ſome<g ref="char:EOLhyphen"/>times he ſends a Croſs to Check our Vanity, and we turn it into Murmuring and Diſ-Obedience.</p>
+                  <p n="4">IV. LORD, Grant that I may perſevere in Grace, and with all humble Obedience, learn how to carry my ſelf in all my Neceſſities; let me go to my God with Fear and Re<g ref="char:EOLhyphen"/>verence, let me Proſtrate my ſelf at his Sacred Feet, and with an humble Confidence, ſay to his Mercy, Lord if thou wilt, thou canſt bring it to paſs; all I am concern'd to fear is, my perſon is unworthy, or the things I Petition for, unfit to be granted; elſe I ſecurely may relie on thy Bounty; and with<g ref="char:EOLhyphen"/>the leaſt doubt, ſay to thy Pow<g ref="char:EOLhyphen"/>er,
+<pb n="127" facs="tcp:32301:60"/>that nothing to thee is Im<g ref="char:EOLhyphen"/>poſſible.</p>
+                  <p>
+                     <hi>As I have received</hi> Chriſt Je<g ref="char:EOLhyphen"/>ſus <hi>the Lord, ſo will I walk in him,</hi> Col. 2.6.</p>
+               </div>
+               <div type="prayer">
+                  <head>A Prayer of <hi>Thankſgiv<g ref="char:EOLhyphen"/>ing,</hi> after Receiving of the <hi>Sacrament.</hi>
+                  </head>
+                  <head type="sub">To be Uſed at Home.</head>
+                  <p>O <hi>Thou Infinite Ocean of Mercy from whence flows all the benefits, we receive, and enjoy, and to whome all Praiſe, Glory and Honour, is moſt due; I deſire with all the moſt higheſt Affections, of a ſincere Heart, to Laud, and Bleſs thee for thoſe Tranſcendent Mercies and Bleſ<g ref="char:EOLhyphen"/>ſings, thou haſt at this time and at all others beſtowed upon me;</hi> [Here Name the Particular Mercies.] <hi>Lord what is Man? even poor ſinful Duſt and Aſhes,
+<pb n="128" facs="tcp:32301:61"/>that thou ſhouldeſt thus Regard him, as to ſend thy welbeloved Son into the World, to purchaſe his Redemption, even with the Price of his own moſt Precious Blood? but Lord, what am I the vileſt of ſinners, that I ſhould partake in this Attonement, wh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> have ſo often Trampled him un<g ref="char:EOLhyphen"/>der my Feet?</hi>
+                  </p>
+                  <p n="2">
+                     <hi>II. O the Riches and fulneſs of thee my Saviour, who haſt now admitted me to the renewing of that Covenant I entered into at my Baptiſm, but have ſince by my own perverſeneſs ſo often broken, that I who am unworthy of the Daily Bread which I Eat to ſup<g ref="char:EOLhyphen"/>port the Body, ſhould participate of this Spiritual Bread which nouriſheth the Soul to Eternal Life, and that the God of Holineſs ſhould Condeſcend to ſo Vile a Wretch! O Lord, I beſeech thee, ſuffer me not for the time to come to turn thy Grace into Wantonneſs, or make thy Mercy an Occaſion of Carnal Security, but let this won<g ref="char:EOLhyphen"/>derful
+<pb n="129" facs="tcp:32301:61"/>loving kindneſs of thine win me to Obedience, that ſince my Saviour hath Suffered and Dyed for me, I may no longer live unto my ſelf, but to him.</hi>
+                  </p>
+                  <p>
+                     <hi>O Lord, thou haſt now been pleaſed to enter my Heart, O ne<g ref="char:EOLhyphen"/>ver let me permit any one Luſt to Chaſe thee from it, but as thou haſt ſo dearly bought me with thy pretious Blood, do I beſeech thee, ſtill keep poſſeſſion of me, and ſuffer no unclean thing to take me out of thy keeping; to this purpoſe be thou Graciouſly pleaſed to be Vigilant ever me, and Prosect me from all my Ghoſtly Enemies; but more eſpecially deliver me from the Deceitfulneſs of my own Heart, which is ever ready to yield it ſelf a Prey: And where thou perceiveſt I am either by Nature or Cuſtom moſt Prone and Weak, there I beg of thee to exalt thy Power in preſerving me.</hi> [Here Name thy greateſt Temptation.]</p>
+                  <p n="4">
+                     <hi>IV. O let the Sufferings of my
+<pb n="130" facs="tcp:32301:62"/>Crucified Saviour for my ſins, and the Solemn Vow I have have now made againſt them, never ſlip from my Memory, but let the remem<g ref="char:EOLhyphen"/>brance of the one make me per<g ref="char:EOLhyphen"/>form the other, that I may never engage with thoſe Luſt, which Nailed his Hands and Feet, Pierced his Side, and made his Soul ſorrowful to Death. But now having a new reſigned my ſelf to him, I may ſerve him in Righteouſneſs and Holineſs, all the days of my Life.</hi>
+                  </p>
+                  <p n="5">
+                     <hi>V. LORD, ſupport my Weak<g ref="char:EOLhyphen"/>neſs in this warfare, and be thou my Strength, for I am not able to ſtruggle with the leaſt Tempta<g ref="char:EOLhyphen"/>tions. How often have I fainted in the Encounter? How many Sabbaths have I profaned, and how many Sacramental Vows have I broken? And yet, O Lord, I carry about me the ſame deceit<g ref="char:EOLhyphen"/>ful Heart to betray me to the breach of this laſt Duty. But O thou, who art for e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> u<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>change<g ref="char:EOLhyphen"/>able, e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>due me, I <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> beſeech
+<pb n="131" facs="tcp:32301:62"/>thee with ſuch a ſtedfaſtneſs of mind, that I may never ſwerve from thy Commandments, but bring forth Fruits meet for Re: pentance, that I may arrive to Life Eternal, through the Merits, and Mediation of my Crucified Lord, and Saviour.</hi> Amen.</p>
+                  <p n="6">VI. Almighty God, who haſt promiſed to hear the Petitions of them that ask in thy Sons Name; I beſeech thee merci<g ref="char:EOLhyphen"/>fully to incline thine Ears to me that have made now my Prayers and Supplications unto thee, and grant that thoſe things which I have faithfully asked according to thy Will, may ef<g ref="char:EOLhyphen"/>fectually be obtained, to the re<g ref="char:EOLhyphen"/>lief of my Neceſſity, and to the ſetting forth thy Glory, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+                  <p n="7">VII. Now unto him that is able to do exceeding abundant<g ref="char:EOLhyphen"/>ly above all that I am able to ask or think, according to the Power that worketh in me, un<g ref="char:EOLhyphen"/>to him be Glory in the Church
+<pb n="132" facs="tcp:32301:63"/>by Chriſt Jeſus, throughout all Ages, World without End. <hi>Amen.</hi>
+                  </p>
+                  <p>
+                     <hi>The Grace of our Lord Jeſus Chriſt, and the Love of God, and the Sweet and Comfortable Felow<g ref="char:EOLhyphen"/>ſhip of his Holy and Bleſſed Spi<g ref="char:EOLhyphen"/>rit be with me, and remain with me, now and forever.</hi> Amen.</p>
+               </div>
+            </div>
+         </div>
+         <div type="text">
+            <head>Private Devotions, and Divine Thoughts to be uſed every Day in the Week.</head>
+            <div n="morning" type="time">
+               <div type="prayer">
+                  <head>A Morning Prayer to be Uſed after the <hi>Ejaculations,</hi> at Up Riſing.</head>
+                  <p>
+                     <hi>O Omnipetent and Everlaſting God, I Bleſs and Praiſe thy Holy Name for thy preſervation of me this night paſt, even to this pre<g ref="char:EOLhyphen"/>ſent; I beſeech thee, in all that I ſhall do this day, preſper thou the
+<pb n="133" facs="tcp:32301:63"/>Work of my Hands, O proſper thou my Hand-work.</hi>
+                  </p>
+                  <p n="2">
+                     <hi>II. Ill all that I ſhall think or ſay, let the words of my Mouth, and the Meditations of my Heart be ſuch as may be ever acceptable in thy ſight; O Lord, my Strength, and my Redeemer, that thou maieſt for ever Vouchſafe to be with me both in and Death.</hi>
+                  </p>
+                  <p>
+                     <hi>WHEREIN (for the ſhort time of my Life here,) give me Grace ſo to behave my ſelf, as in thy Pre<g ref="char:EOLhyphen"/>ſence: Fearing nothing ſo much as thy diſpleaſure; hating and Sorrowing for nothing ſo much as my ſins, loving and rejoycing in nothing ſo much as in thee, and thy Glory.</hi>
+                  </p>
+                  <p n="4">
+                     <hi>IV. and for the time of my Death, I beſeech thee, in thy good Providence and Mercy, ſo to Or<g ref="char:EOLhyphen"/>der it, that I be not found either unproxided, or unwilling to de<g ref="char:EOLhyphen"/>part, in that kind of Death, and by that means which thou ſhalt appoint; but ſo to be ever affected in Faith and Love, as they that
+<pb n="134" facs="tcp:32301:64"/>long to be delivered from this Body of ſin, into the Glorious Liberty of the Sons of God.</hi>
+                  </p>
+                  <p n="5">
+                     <hi>V. IN this hope I reſt, and into thy Bleſſed Protection and Mercy this day I commend my Soul and Body: My Relations and Friends; beſeeching thee ſo to Sanctifie and Direct us in the ways of the Laws, and in the works of thy Commandements; and to give thine Angels ſuch charge over us, that through thy moſt Protection, both here and ever, we may be preſerved in Bo<g ref="char:EOLhyphen"/>dy and Soul to ſerve thee, the on<g ref="char:EOLhyphen"/>ly true God, through Jeſus Chriſt our Lord.</hi> Amen.</p>
+                  <p>Our Father which art in Heaven, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div type="hymn">
+                  <head>A <hi>Hymn</hi> for the Morning.</head>
+                  <lg>
+                     <l>
+                        <hi>LOrd I do now lift up my Eyes,</hi>
+                     </l>
+                     <l>
+                        <hi>And leave my ſluggiſh Bed,</hi>
+                     </l>
+                     <l>
+                        <hi>But why I wake, or why I riſe,</hi>
+                     </l>
+                     <l>
+                        <hi>Comes ſeldom in my Head.</hi>
+                     </l>
+                     <pb n="135" facs="tcp:32301:64"/>
+                     <l>
+                        <hi>Is it to Sweat and Toil for wealth,</hi>
+                     </l>
+                     <l>
+                        <hi>Or ſport my time away;</hi>
+                     </l>
+                     <l>
+                        <hi>That thou preſerv'ſt me ſtill in Health.</hi>
+                     </l>
+                     <l>
+                        <hi>And giveſt me this new day?</hi>
+                     </l>
+                     <l>
+                        <hi>No, no, unskilful Soul, not ſo;</hi>
+                     </l>
+                     <l>
+                        <hi>Be not deceiv'd with Toys:</hi>
+                     </l>
+                     <l>
+                        <hi>Thy Lord's Commands more wiſely go,</hi>
+                     </l>
+                     <l>
+                        <hi>And Aim at higher joys.</hi>
+                     </l>
+                     <l>
+                        <hi>They bid us wake to ſeek new Grace,</hi>
+                     </l>
+                     <l>
+                        <hi>And ſome freſh Virtue gain:</hi>
+                     </l>
+                     <l>
+                        <hi>They call us up to mend our pace,</hi>
+                     </l>
+                     <l>
+                        <hi>Till we the prize attain.</hi>
+                     </l>
+                     <l>
+                        <hi>That Glorious prize for which all Run,</hi>
+                     </l>
+                     <l>
+                        <hi>Who wiſely ſpend their Breath:</hi>
+                     </l>
+                     <l>
+                        <hi>Who when this weary Life is done,</hi>
+                     </l>
+                     <l>
+                        <hi>Are ſure of reſt in Death.</hi>
+                     </l>
+                     <l>
+                        <hi>Not ſuch a reſt as here we prove</hi>
+                     </l>
+                     <l>
+                        <hi>Diſturb'd with cares and fear.</hi>
+                     </l>
+                     <l>
+                        <hi>But endleſs joy, and peace and Love;</hi>
+                     </l>
+                     <l>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>nmixt with Grief and Tears.</hi>
+                     </l>
+                     <l>
+                        <hi>Glory to thee, O bounteous Lord!</hi>
+                     </l>
+                     <l>
+                        <hi>Who giv'ſt to all things breath:</hi>
+                     </l>
+                     <l>
+                        <hi>Glory to thee, Eternal Word!</hi>
+                     </l>
+                     <pb n="136" facs="tcp:32301:65"/>
+                     <l>
+                        <hi>Who ſav'ſt us by thy Death.</hi>
+                     </l>
+                     <l>
+                        <hi>Glory, O bleſſed Spirit to thee,</hi>
+                     </l>
+                     <l>
+                        <hi>Who fill'ſt our Souls with love.</hi>
+                     </l>
+                     <l>
+                        <hi>Glory to all the Myſtick three,</hi>
+                     </l>
+                     <l>
+                        <hi>Who Reign one God above.</hi>
+                     </l>
+                     <l>Amen.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="day" type="time">
+               <div type="ejaculations">
+                  <head>Ejaculations <hi>for the Day.</hi>
+                  </head>
+                  <p>
+                     <label>At your Apparelling, ſay.</label>
+                  </p>
+                  <p>BLeſſed <hi>Jeſu!</hi> that the ſhame of my ſinful Soul may not be ſeen, Cloath it with thy ſpotleſs Robes of Righteouſneſs, and Adorn it with all the Or<g ref="char:EOLhyphen"/>naments of all manner of Grace and Vertues. <hi>Amen.</hi>
+                  </p>
+                  <p>
+                     <label>When you are Apparelled.</label>
+                  </p>
+                  <p>O moſt aimable <hi>Jeſu,</hi> the true Spoufe of my Soul, give me the Wedding Garment of Di<g ref="char:EOLhyphen"/>vine Love, and perpetual Cha<g ref="char:EOLhyphen"/>rity. <hi>Amen.</hi>
+                  </p>
+                  <p>
+                     <label>Waſhing your Hands.</label>
+                  </p>
+                  <p>O Bleſſed Lord, who ſo loved us, as to Waſh our Souls in thy pretious Blood; Purifie I
+<pb n="137" facs="tcp:32301:65"/>beſeech thee, my Heart and my Hands from all the ſpots and filth of ſin. <hi>Amen.</hi>
+                  </p>
+                  <p>
+                     <label>In Waſhing your Mouth.</label>
+                  </p>
+                  <p>O Divine Wiſdom, which proceedeſt out of the Mouth of thy Heavenly Father, I hum<g ref="char:EOLhyphen"/>bly beſeech thee with thy Grace to Purge my Lips from all Wick<g ref="char:EOLhyphen"/>ed and Vain words, that my Mouth may never open but to thy praiſe, and the improve<g ref="char:EOLhyphen"/>ment of others. <hi>Amen.</hi>
+                  </p>
+                  <p>
+                     <label>In Waſhing your Eyes.</label>
+                  </p>
+                  <p>O thou Celeſtial Light, who Illuminates every one that comes into the World, enligh<g ref="char:EOLhyphen"/>ten the Eyes of my Soul, that in all things I may perfectly ſee and perform thy bleſſed will and Pleaſure. <hi>Amen.</hi>
+                  </p>
+                  <p>
+                     <label>Beholding your Face in the Glaſs: Say.</label>
+                  </p>
+                  <p>All Fleſh is Graſs, and the Glory of it as the Flower of the Field, which may quickly ſade away and be no more ſeen. Favour is deceitful and Beauty
+<pb n="138" facs="tcp:32301:66"/>is vain, but a Woman that feareth the Lord, ſhe ſhall be praiſed.</p>
+                  <p>
+                     <label>Going forth of thy Houſe or Cham<g ref="char:EOLhyphen"/>ber, ſay.</label>
+                  </p>
+                  <p>Shew me, O Lord, thy ways, and teach me thy Paths; Direct my ſteps according to thy word, that no Injuſtice Rule over me, make perfect my goings in thy Paths, that my ſteps be not moved.</p>
+                  <p>
+                     <label>As you Travel or Walk by the way.</label>
+                  </p>
+                  <p>Bleſſed are thoſe that are un<g ref="char:EOLhyphen"/>defiled in the way, and walk in the Law of the Lord.</p>
+                  <p>
+                     <label>When the Clock ſtrikes, or you ſee the hour of the day.</label>
+                  </p>
+                  <p>Our time paſſeth away like a Shadow, and we bring our Years to an end, as it were a Tale, that is told: But Lord, ſo teach me to number my Days, that I may apply my Heart unto true Wiſdom.</p>
+                  <p>
+                     <label>As you Aſcend any high place, or go to Church.</label>
+                  </p>
+                  <p>Who ſhall Aſcend into the
+<pb n="139" facs="tcp:32301:66"/>Hill of the Lord: or who ſhall riſe up in his Holy place? Even he, that hath Clean Hands, and a pure Heart: and that hath not liſt up his mind unto Vani<g ref="char:EOLhyphen"/>ty, nor ſworn to deceive his Neighbour.</p>
+                  <p>
+                     <label>When you are on a high place, ſay.</label>
+                  </p>
+                  <p>Thy Mercy O Lord, reacheth unto the Heavens: and thy faithfulneſs unto the Clouds.</p>
+                  <p>
+                     <label>Beholding pleaſant Fields, and Variety of Objects.</label>
+                  </p>
+                  <p>O Lord, how manifold are thy Works: In Wiſdom haſt thou formed them all, the Earth is full of thy Riches, thou openeſt thine hand and filleſt all things living with plentiouſneſs.</p>
+                  <p>
+                     <label>
+                        <g ref="char:V">Ʋ</g>pon hearing, or ſeeing any thing Extraordinary.</label>
+                  </p>
+                  <p>Bleſſed be the Lord God, even the God of <hi>Iſrael;</hi> which only doth wonderous things, and bleſſed be the Name of his Majeſty for ever: and all the Earth ſhall be filled with his Majeſty. <hi>Amen, Amen.</hi>
+                  </p>
+                  <pb n="140" facs="tcp:32301:67"/>
+                  <p>
+                     <label>When you go to Read, or Meditate.</label>
+                  </p>
+                  <p>Open thou mine Eyes, O Lord; that I may ſee the won<g ref="char:EOLhyphen"/>drous things of thy Law: And grant that what ever I Read or Meditate may conduce to the full underſtanding of thy Will, and my ready Obedience there<g ref="char:EOLhyphen"/>unto.</p>
+                  <p>
+                     <label>Being wearied therewith.</label>
+                  </p>
+                  <p>Lord, let me not be weary in well-doing, remembring that in due time I ſhall Reap, if I faint not.</p>
+                  <p>
+                     <label>When you go about any worldly Employments.</label>
+                  </p>
+                  <p>Deliver me O Lord, from every evil Work, and ſtabliſh me in every good Word and Work.</p>
+                  <p>
+                     <label>When you are Diſcontented or Sad.</label>
+                  </p>
+                  <p>Why art ſo full of heavineſs O my Soul: and why at thou ſo diſquieted within me? Put thy truſt in God: For I will yet give him thanks for the help help of his Countenance. Cauſe thy Face O Lord to ſhine
+<pb n="141" facs="tcp:32301:67"/>upon thy Servant: O ſhew me the Light of thy Countenance, and I ſhall be whole.</p>
+                  <p>
+                     <label>When you Hunger and Thirſt.</label>
+                  </p>
+                  <p>Bleſſed are all they that Hun<g ref="char:EOLhyphen"/>ger and Thirſt after Righteouſ<g ref="char:EOLhyphen"/>neſs, for they ſhall be filled with thy abundant goodneſs.</p>
+                  <p>
+                     <label>When you are asked an Alms, and are able to give.</label>
+                  </p>
+                  <p>It is more bleſſed to give than to receive, he that Sow<g ref="char:EOLhyphen"/>eth ſparingly ſhall Reap ſparing<g ref="char:EOLhyphen"/>ly, and he which Soweth boun<g ref="char:EOLhyphen"/>tifully ſhall Reap bountifully.</p>
+                  <p>
+                     <label>When you hear any Perſon, Evil ſpoken of.</label>
+                  </p>
+                  <p>Deliver me, O Lord, from Lving Lips, and from a Deceit<g ref="char:EOLhyphen"/>ful Tongue.</p>
+                  <p>
+                     <label>
+                        <g ref="char:V">Ʋ</g>pon ſight of your Sins, and miſpending of <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>.</label>
+                  </p>
+                  <p>O remember not the Sins and Offences of my Youth, or Ri<g ref="char:EOLhyphen"/>per Years, but a cording to thy tender Mercy, think thou upon me, O Lord for thy good<g ref="char:EOLhyphen"/>neſs,</p>
+                  <pb n="142" facs="tcp:32301:68"/>
+                  <p>After thou haſt Rehearſed the the Lords Prayer, the Twelve Apoſtles <hi>Creed,</hi> and the <hi>Ten Commandements.</hi> Think up<g ref="char:EOLhyphen"/>on theſe good Rules that are to be obſerved and practiſed, and what ſins are to be avoid<g ref="char:EOLhyphen"/>ed.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The two Precepts of <hi>Charity,</hi> or the Laws of <hi>Nature.</hi>
+               </head>
+               <p>TO love God above all for his own ſake.</p>
+               <p>To love all Men as our ſelves for Gods ſake, and to do unto others, as we would they ſhould do unto us, <hi>Deut.</hi> 6.5.10.12. <hi>Matt.</hi> 7.12.</p>
+               <p>
+                  <label>The Sacraments of the Church.</label>
+               </p>
+               <p>The principal and truly ſo called, as generally neceſſary to Salvation, are two Baptiſm, and the <hi>Lords Supper.</hi>
+               </p>
+               <p>
+                  <label>The three Teological Vertues.</label>
+               </p>
+               <p>Faith, Hope, and Charity, 1 <hi>Cor.</hi> 13.13.</p>
+               <pb n="143" facs="tcp:32301:68"/>
+               <p>
+                  <label>The Four Cardinal Virtues.</label>
+               </p>
+               <p>Prudence, Juſtice, Forti<g ref="char:EOLhyphen"/>tud, and Temperance.</p>
+               <p>
+                  <label>Three kinds of good Works.</label>
+               </p>
+               <p>Faſting, Prayer, and Alms, Deeds, <hi>Matt.</hi> 6.</p>
+               <p>
+                  <label>Pray, and Labour for the Seven giſts of the Holy Ghoſt.</label>
+               </p>
+               <p n="1">1. The Spirit of Wiſdom, 2. And underſtanding. 3. The Spirit of Councel. 4. And Ghoſt<g ref="char:EOLhyphen"/>ly Strength. 5. The Spirit of Knowledge. 6. And Piety. 7. The Spirit of a Holy and God<g ref="char:EOLhyphen"/>ly Fear, <hi>Iſa.</hi> 11.2.</p>
+               <p>
+                  <label>To thoſe add the Twelve Fruits of the Holy Ghoſt.</label>
+               </p>
+               <p>Love, Joy, Peace, Patience, Mercy, Goodneſs, Long-Suffer<g ref="char:EOLhyphen"/>ing, Meekneſs, Faith, Modeſty, Shame-Facedneſs, Sobriety, <hi>Gal.</hi> 5.22.</p>
+               <p>
+                  <label>Endeavour to perform theſe Seven Spiritual works of Mercy.</label>
+               </p>
+               <p n="1">1. To inſtruct the Ignorant, <hi>Matt.</hi> 18.15. 16, 17. 2. To Correct offenders, <hi>Jam.</hi> 5.12. 3. To Gouncel the Doubtful,
+<pb n="144" facs="tcp:32301:69"/>
+                  <hi>Gal.</hi> 6.6. 4. To comfort the Afflicted, <hi>Prov.</hi> 27.9. 5. To ſuffer Injuries with Patience, <hi>Eccleſ.</hi> 5.8. 6. To forgive Offences and Wrongs, <hi>Rom.</hi> 15.1. 7. To Pray for others, <hi>Mark.</hi> 11.25.</p>
+               <p>
+                  <label>Likewiſe forget not theſe ſix Cor<g ref="char:EOLhyphen"/>poral Works of Mercy.</label>
+               </p>
+               <p n="1">1. To feed the Hungry, and to give Drink to the Thirſty, <hi>Mat.</hi> 15. 2. To Cloath the Naked, <hi>Mat.</hi> 25. 3. To har<g ref="char:EOLhyphen"/>bour the Stranger and Needy, <hi>Tob.</hi> 1. 4. To viſit the Sick, <hi>Iſa.</hi> 58. 5. To Miniſter unto Priſoners and Captive, <hi>Tob.</hi> 12. 6 To Bury the Dead.</p>
+               <p>
+                  <label>Obſerve the eight Beatitudes, <hi>Mat. 5.</hi>
+                  </label>
+               </p>
+               <p n="1">1. <hi>Bleſſed are the Poor in Spi<g ref="char:EOLhyphen"/>rit, for theirs is the Kingdom of Heaven.</hi>
+               </p>
+               <p n="2">2. <hi>Bleſſed are they that Mourn, for they ſhall be Comforted.</hi>
+               </p>
+               <p n="3">3. <hi>Bleſſed are the Meek, for they ſhall inherit the Earth.</hi>
+               </p>
+               <p n="4">4. <hi>Breſſed are they which do.
+<pb n="145" facs="tcp:32301:69"/>Hunger and Thirſt after Righteouſ<g ref="char:EOLhyphen"/>neſs, for they ſhall be filled.</hi>
+               </p>
+               <p n="5">5. <hi>Bleſſed are the merciful for they ſhall obtain Mercy.</hi>
+               </p>
+               <p n="6">6. <hi>Bleſſed are the pure in Heart, for they ſhall ſee God.</hi>
+               </p>
+               <p n="7">7. <hi>Bleſſed are the Peace-Ma<g ref="char:EOLhyphen"/>kers for they ſhall be called the Children of God.</hi>
+               </p>
+               <p n="8">8. <hi>Bleſſed are they which are Perſecuted for Righteouſneſs ſake, for theirs is the Kindom of Heaven. Labour to avoid the Seven deadly ſins, as they are commonly ſo called.</hi>
+               </p>
+               <p n="1">1. Pride, <hi>Luk.</hi> 14.11. 2. Co<g ref="char:EOLhyphen"/>vetouſneſs, <hi>Act.</hi> 20.35. 3. Lux<g ref="char:EOLhyphen"/>ury, 1 <hi>Cor.</hi> 16.15. 4. Envy 1 <hi>Joh.</hi> 3.14. 5. Gluttony, <hi>Rom.</hi> 14.7. 6. Anger, <hi>Mat.</hi> 11.29. 7. Sloth, <hi>Jer.</hi> 48.10. <hi>Pray for the ſeven contrary Virtues.</hi>
+               </p>
+               <p n="1">1. Humility. 2. Liberality. 3. Chaſtity. 4. Gentleneſs. 5. Temperance. 6. Patience. 7. Devout and Earneſt ſerving of God, and being dilligent.</p>
+               <pb n="146" facs="tcp:32301:70"/>
+               <p>
+                  <label>Four Sins that Cry to Heaven for Vengeance.</label>
+               </p>
+               <p n="1">1. Wilful Murther. 2. Car<g ref="char:EOLhyphen"/>nal Sin againſt Nature. 3. Op<g ref="char:EOLhyphen"/>preſſion of the Poor. 4. De<g ref="char:EOLhyphen"/>frauding Workmen of their Wages.</p>
+               <p>
+                  <label>The Four laſt things to be remem<g ref="char:EOLhyphen"/>bred.</label>
+               </p>
+               <p n="1">1. Death. 2. Judgment. 3. Hell. 4. Heaven.</p>
+               <p>
+                  <label>Ejaculations when towards Bed<g ref="char:EOLhyphen"/>time.</label>
+               </p>
+               <p>I will not ſuffer mine Eyes to Sleep, nor mine Eye-Lids to Slumber, neither the Temples of my Head to take any reſt, until I find out a place for the Lord; an habitation for the Mighty God of <hi>Jacob.</hi>
+               </p>
+            </div>
+            <div n="evening" type="time">
+               <div type="prayer">
+                  <head>A Prayer for the Evening.</head>
+                  <p>
+                     <hi>O Almighty God, my Glory and my hope, my Lord and Ma<g ref="char:EOLhyphen"/>ſter, the Father of Mercy, and God of all Comfort, I preſent to thee, the Sacrifice of a thankful
+<pb n="147" facs="tcp:32301:70"/>Spirit, in humble and joyful ac<g ref="char:EOLhyphen"/>knowledgment of thoſe infinite fa<g ref="char:EOLhyphen"/>vours by which thou haſt this day, and all the whole term of my life, ſupported my ſtate, enriched my Spirit, comforted my Sorrows re<g ref="char:EOLhyphen"/>lieved my neceſſities bleſſed and defended my Perſon, inſtructed my Ignorance, and promoted my Eter<g ref="char:EOLhyphen"/>nal Intereſt.</hi>
+                  </p>
+                  <p n="2">
+                     <hi>II. WHOM have I in Heaven but thee, or whom on Earth have I deſired, or may deſire in Compa<g ref="char:EOLhyphen"/>riſon of thee whoſe Nature is Good<g ref="char:EOLhyphen"/>neſs, whoſe Will is Power, and whoſe Work is Pitty; I humbly be<g ref="char:EOLhyphen"/>ſeech thee to Pardon my ſins</hi> [Here Name the Particulars.] <hi>and ac<g ref="char:EOLhyphen"/>cept of this Evening Sacrifice, a<g ref="char:EOLhyphen"/>bate my Pride, and remedy all my other imperfections; Oh multiply thy Grace upon Humility, and ma<g ref="char:EOLhyphen"/>nifeſt thy Power in my infirmity; plead thou my cauſe, O Lord with thy Heavenly Father, and be thou for ever my Mediator and Advocate.</hi>
+                  </p>
+                  <p n="3">
+                     <hi>III. AS thou haſt ordained the day for Labour, and the night for
+<pb n="148" facs="tcp:32301:71"/>Reſt, I beſeech thee to protect me this Night; let the Eve of thy Pro<g ref="char:EOLhyphen"/>vidence watch over me, and thy Holy Angels pitch their Tents about me, that being ſafely delivered from danger, and refreſhed with moderate Sleep, I may be enabled to perform my own employment, and faithfully perſevere in the duties of thy Service; and ſo daily advance to new Victories over my Paſſions, and more perfect obſervance of thy Commandments; till having paſ<g ref="char:EOLhyphen"/>ſed my days in thy fear, I may end them in thy favour, and rejoyce with thee for ever in thy heavenly Kingdom, through Jeſus Chriſt our Lord, who with thee, and the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, liveth and reigneth ever one God, World without end.</hi> Amen.</p>
+               </div>
+               <div type="hymn">
+                  <head>A <hi>Hymn</hi> for the Evening.</head>
+                  <lg>
+                     <l>
+                        <hi>NOw, my Soul the day is gone,</hi>
+                     </l>
+                     <l>
+                        <hi>Which in the Morn was thine:</hi>
+                     </l>
+                     <l>
+                        <hi>Now its Glaſs no more ſhall run,</hi>
+                     </l>
+                     <l>
+                        <hi>Its Sun no longer ſhine.</hi>
+                     </l>
+                     <pb n="149" facs="tcp:32301:71"/>
+                     <l>
+                        <hi>True alas! the day is gone,</hi>
+                     </l>
+                     <l>
+                        <hi>O were it only ſo:</hi>
+                     </l>
+                     <l>
+                        <hi>Is it not loſt as well as done?</hi>
+                     </l>
+                     <l>
+                        <hi>Caſt up thy Counts and know</hi>
+                     </l>
+                     <l>
+                        <hi>Are we ſo much nearer Heav'n,</hi>
+                     </l>
+                     <l>
+                        <hi>As to the Grave we bow?</hi>
+                     </l>
+                     <l>
+                        <hi>Has our ſorrow made all ev'n,</hi>
+                     </l>
+                     <l>
+                        <hi>And clear'd the Debts we owe?</hi>
+                     </l>
+                     <l>
+                        <hi>From what Vice have we refrain'd</hi>
+                     </l>
+                     <l>
+                        <hi>To break the courſe of ſin:</hi>
+                     </l>
+                     <l>
+                        <hi>What new Virtue have we gain'd,</hi>
+                     </l>
+                     <l>
+                        <hi>To make us rich within?</hi>
+                     </l>
+                     <l>
+                        <hi>Time is well beſtowed on thoſe,</hi>
+                     </l>
+                     <l>
+                        <hi>Who well their time beſtow:</hi>
+                     </l>
+                     <l>
+                        <hi>Whoſe main concern ſtill forwards goes,</hi>
+                     </l>
+                     <l>
+                        <hi>Whoſe hopes ſtill riper grow?</hi>
+                     </l>
+                     <l>
+                        <hi>Who when e're the Clocks proclaim,</hi>
+                     </l>
+                     <l>
+                        <hi>Another hour is paſt,</hi>
+                     </l>
+                     <l>
+                        <hi>Have an Art to ſet their aim,</hi>
+                     </l>
+                     <l>
+                        <hi>And thoughts upon their laſt:</hi>
+                     </l>
+                     <l>
+                        <hi>That their laſt and happieſt hour,</hi>
+                     </l>
+                     <l>
+                        <hi>Which brings them to their home</hi>
+                     </l>
+                     <l>
+                        <hi>Where they ſing, and bleſs the pow'r,</hi>
+                     </l>
+                     <l>
+                        <hi>By which they thither come,</hi>
+                     </l>
+                     <l>
+                        <hi>O my God, of Life and Death,</hi>
+                     </l>
+                     <l>
+                        <hi>The everlaſting King!</hi>
+                     </l>
+                     <l>
+                        <hi>Since thou giviſt to all their Breath,</hi>
+                     </l>
+                     <pb n="150" facs="tcp:32301:72"/>
+                     <l>
+                        <hi>May all thy Glory ſing.</hi>
+                     </l>
+                     <l>
+                        <hi>Glory, Honour, Pow'r and Praiſe,</hi>
+                     </l>
+                     <l>
+                        <hi>To the Myſterious three:</hi>
+                     </l>
+                     <l>
+                        <hi>As at firſt beginning was,</hi>
+                     </l>
+                     <l>
+                        <hi>May now, and ever be.</hi>
+                     </l>
+                  </lg>
+                  <closer>Amen.</closer>
+               </div>
+               <div type="part">
+                  <p>
+                     <label>As you undreſs your ſelf, ſay.</label>
+                  </p>
+                  <p>The time is now approach<g ref="char:EOLhyphen"/>ing, when I muſt put off this Body of ſinful Fleſh, as I do now theſe Garments which co<g ref="char:EOLhyphen"/>ver it; grant O Lord, that I may put off the Old Man which is Corrupt according to the de<g ref="char:EOLhyphen"/>ceitful Luſts, and put on the New Man, which after thee, O God is Created in Righteouſ<g ref="char:EOLhyphen"/>neſs and true Holineſs.</p>
+                  <p>
+                     <label>As you enter into your Bed, ſay.</label>
+                  </p>
+                  <p>In the Name of our Lord <hi>Jeſus Chriſt,</hi> Crucified, I lay me down to reſt; bleſs me O Lord, defend and Govern me, and af<g ref="char:EOLhyphen"/>ter this ſhort and miſerable Pilgrimage, bring me to ever<g ref="char:EOLhyphen"/>laſting happineſs, <hi>Amem.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <pb n="151" facs="tcp:32301:72"/>
+                  <head>A Prayer at ſetling to Sleep.</head>
+                  <p>
+                     <hi>O Jeſus Chriſt, whoſe unwea<g ref="char:EOLhyphen"/>ried Eye, neither ſlumbers nor ſleeps, but continually watches in defence of thy Servants, receive me I beſeech thee, into thy Prote<g ref="char:EOLhyphen"/>ction, and grant that when my Body is a ſleep, my Soul may wake to thee; and hereafter be<g ref="char:EOLhyphen"/>hold that Bleſſed and heavenly Life, where thou with the Father, and the Holy Ghoſt, Art eternal Governour, and where the Angels with the bleſſed Souls are Citi<g ref="char:EOLhyphen"/>zens for ever.</hi> Amen.</p>
+                  <p>
+                     <label>When thou art in Bed, and canſt not ſleep, exerciſe thy ſelf in this Meditation.</label>
+                  </p>
+                  <p>S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>and in awe, and ſin not, Commune with your own Heart upon your Bed and be ſtill.</p>
+                  <p>I will lay me down in Peace and will take my reſt: For thou Lord, only makeſt me to dwell in ſafety.</p>
+                  <pb n="152" facs="tcp:32301:73"/>
+                  <p>Have mercy upon me O Lord, now, and at the hour of Death.</p>
+                  <p n="2">
+                     <hi>II. O Lord preſerve me while I am waking, and defend me when I am ſleeping, that my Soul may continually watch for thee, and both Body and Soul may reſt in thy Peace for ever.</hi> Amen.</p>
+                  <p>The Holy and undivided Trinity, be now and evermore my defence, againſt all Perils and Dangers of this Night. <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32301:73"/>
+         </div>
+      </body>
+   </text>
+</TEI>
